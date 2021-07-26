@@ -1,4 +1,4 @@
-# Salary prediction for DS: Overview
+# Salary prediction for DS: Overview (Working on it 🏗️)
 
 The main aim is predict the Data Scientist salary based on the **Glassdoor vacancies data (web scraping technique), statistic models and machine learning**.
 
