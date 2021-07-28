@@ -8,12 +8,12 @@ Created on Mon Jul 19 11:48:54 2021
 
 import pandas as pd
 import numpy as np
-import re
 
 #set path
 #path = r'C:/Users/Semantix/OneDrive - SEMANTIX TECNOLOGIA EM SISTEMA DE INFORMACAO S.A/Documentos/Web Scraping Glassdor/2_clean_data/'
 
-path =  r'/Users/haroldribeiro/OneDrive/Documents/Studies/Data Science/DS Portfolio/Web Scraping Glassdor/2_clean_data/'
+path =  r'/Users/haroldribeiro/OneDrive/Documents/Studies/Data Science/DS Portfolio/Web Scraping Glassdoor/0_data/2_clean_data/'
+
 
 #importing the data
 df = pd.read_csv(path+'ds_data.csv')
@@ -141,12 +141,52 @@ df['estatistica'] = np.where(df.descricao.str.lower().str.contains('math') |
 df.math.value_counts()
 
 
+#2 - Programming 
 
-check_program =  df.iloc[:5].copy()
+# R 
+df['r'] = [1 if 'R' in x else 0 for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()]
 
+df.r.value_counts()
 
-# Programming 
-# R(0)and Python (130), Julia, Java,  sas(24)
+#Python               
+df['python'] = np.where(df.descricao.str.lower().str.contains('python'),1,0)
+
+df.python.value_counts()
+
+#Julia
+df['julia'] = np.where(df.descricao.str.lower().str.contains('julia'),1,0)
+
+df.julia.value_counts()
+
+#C
+df['c'] = [1 if 'C' in x else 0 for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()]
+
+df.c.value_counts()
+
+#Java
+df['java'] = np.where(df.descricao.str.lower().str.contains('java'),1,0)
+
+df.java.value_counts()
+
+#Scala
+df['scala'] = np.where(df.descricao.str.lower().str.contains('scala'),1,0)
+
+df.scala.value_counts()
+
+#SAS
+df['sas'] = np.where(df.descricao.str.lower().str.contains('sas'),1,0)
+
+df.sas.value_counts()
+
+#MATLAB
+df['matlab'] = np.where(df.descricao.str.lower().str.contains('matlab'),1,0)
+
+df.matlab.value_counts()
+
+check = df[df.c == 1]
+
+   
+
 
 # Data Manipulation
 #SQL(101), Spark (41) 
