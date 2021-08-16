@@ -8,16 +8,18 @@ Created on Mon Jul 19 11:48:54 2021
 
 import pandas as pd
 import numpy as np
+from datetime import date
 
 #set path
 #path = r'C:/Users/Semantix/OneDrive - SEMANTIX TECNOLOGIA EM SISTEMA DE INFORMACAO S.A/Documentos/Web Scraping Glassdor/2_clean_data/'
 
 path =  r'/Users/haroldribeiro/OneDrive/Documents/Studies/Data Science/DS Portfolio/Web Scraping Glassdoor/0_data/2_clean_data/'
+path_store = r'/Users/haroldribeiro/OneDrive/Documents/Studies/Data Science/DS Portfolio/Web Scraping Glassdoor/0_data/3_abt_data/'
 
+#importing the train data
 
-#importing the data
-df = pd.read_csv(path+'ds_data.csv')
-
+df = pd.read_csv(path+'ds_data.csv') #train
+#df = pd.read_csv(path+'ds_data_oot.csv') #ott
 
 #----------------------------------------#
 #           Seneriority (Senioridade)    #
@@ -27,7 +29,7 @@ df = pd.read_csv(path+'ds_data.csv')
 #normalizing the job title (vaga) to create seniority feature
 df['vaga'] = df['vaga'].str.lower()
 
-                        #Senior label
+#Senior label
 df['senioridade']  =    np.where(                   
                         df['vaga'].str.contains('sr') | 
                         df['vaga'].str.contains('senior') |
@@ -73,7 +75,7 @@ df['senioridade']  =    np.where(
                        #Not aplicable
                        'Na'))))    
                 
-
+df.senioridade.value_counts(1)
 #--------------------------------------------------------------------------------------------------------
 
 #---------------------------------------#
@@ -83,6 +85,26 @@ df['senioridade']  =    np.where(
 #Capitalize all words
 df['vaga'] = df['vaga'].str.title().str.strip()
 
+
+#Simplifying job tittle 
+
+df['vaga_simplificada'] = np.where(df.vaga.str.contains('Analyst')
+                                   ,'Data Analyist',
+                          np.where(df.vaga.str.contains('Engineer')
+                                   ,'Data Engineer',
+                          np.where(df.vaga.str.contains('Learning') | 
+                                   df.vaga.str.contains('Ml')
+                                   ,'Machine Learning',
+                          np.where(df.vaga.str.contains('Manager')
+                                   ,'Manager',
+                          np.where(df.vaga.str.contains('Director')                                   
+                                   ,'Director',
+                          np.where(df.vaga.str.contains('Scientist')
+                                   ,'Data Scientist'
+                                   ,'Na'))))))
+
+                               
+df.vaga_simplificada.value_counts(1)
 
 #--------------------------------------------------------------------------------------------------------
 
@@ -122,15 +144,55 @@ df = (
 )
 
 
+
+df.salario_medio.describe()
+
+# Converting salary per hour for annual
+df = (
+      df.assign(
+           salario_min = np.where(df.fg_por_hora == 1, round(((df.salario_min * 168) * 12)/1000,1), df.salario_min),
+           salario_max = np.where(df.fg_por_hora == 1, round(((df.salario_max * 168) * 12)/1000,1), df.salario_max),
+           salario_medio = np.where(df.fg_por_hora == 1, round(((df.salario_medio * 168) * 12)/1000,1), df.salario_medio)
+          
+          )
+)
+
+df.salario_medio.describe()
+
+# x1000 scale
+
+df = (
+      df.assign(
+           salario_min = round(df.salario_min * 1000),
+           salario_max = round(df.salario_max * 1000),
+           salario_medio = round(df.salario_medio * 1000)
+      )
+)
+
+
 #--------------------------------------------------#
 #  creating features from description (Descrição)  #
 #--------------------------------------------------#
     
+# normalizing description feature
+
+df['descricao'] = df.descricao.str.title().str.strip()
+
+
+#-----------------------------------------------------------------------------------------------------------------
+
+
+
+#Counting qty of words in description field
+df['descricao_qtd_palavras'] = df.descricao.apply(lambda x: len(x.split()))
+
+
+df.descricao_qtd_palavras.describe()
+
+#-----------------------------------------------------------------------------------------------------------------
 
 
 # identyfying hardskill
-
-df['descricao'] = df.descricao.str.title().str.strip()
 
 #1 - Math & Statistic
 
@@ -138,91 +200,330 @@ df['estatistica'] = np.where(df.descricao.str.lower().str.contains('math') |
                                  df.descricao.str.lower().str.contains('statistic')
                                  ,1,0)
 
-df.math.value_counts()
+df.estatistica.value_counts()
 
+#-----------------------------------------------------------------------------------------------------------------
 
 #2 - Programming 
 
-# R 
-df['r'] = [1 if 'R' in x else 0 for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()]
+df['programacao'] = ([1 if (
+                            ('R' in x) or 
+                            ('python' in list(map(str.lower,x))) or
+                            ('julia' in list(map(str.lower,x)))or
+                            ('C' in x) or
+                            ('java' in list(map(str.lower,x))) or
+                            ('scala' in list(map(str.lower,x))) or
+                            ('sas' in list(map(str.lower,x))) or
+                            ('matlab' in list(map(str.lower,x)))
+                            
+                           )
+                      else 0 
+                      for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()]
+                     )
 
-df.r.value_counts()
+df.programacao.value_counts()
 
-#Python               
-df['python'] = np.where(df.descricao.str.lower().str.contains('python'),1,0)
-
-df.python.value_counts()
-
-#Julia
-df['julia'] = np.where(df.descricao.str.lower().str.contains('julia'),1,0)
-
-df.julia.value_counts()
-
-#C
-df['c'] = [1 if 'C' in x else 0 for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()]
-
-df.c.value_counts()
-
-#Java
-df['java'] = np.where(df.descricao.str.lower().str.contains('java'),1,0)
-
-df.java.value_counts()
-
-#Scala
-df['scala'] = np.where(df.descricao.str.lower().str.contains('scala'),1,0)
-
-df.scala.value_counts()
-
-#SAS
-df['sas'] = np.where(df.descricao.str.lower().str.contains('sas'),1,0)
-
-df.sas.value_counts()
-
-#MATLAB
-df['matlab'] = np.where(df.descricao.str.lower().str.contains('matlab'),1,0)
-
-df.matlab.value_counts()
-
-check = df[df.c == 1]
-
-   
+#-----------------------------------------------------------------------------------------------------------------
 
 
-# Data Manipulation
-#SQL(101), Spark (41) 
-
-# cloud(73)
-# Aws, Azure, Google Cloud Plataform, GCP, Data Bricks
-
-# Data viz
-# Excel , Tableau, Power BI, Qlik
-
-#ML
-# Machine Learning, ML, Artificial Intelligence, AI, 
-
-# MLOps
+#3 - Data Manipulation
 
 
-# rating
-# checking distributions to see if I need to input an avarage
+df['etl'] = np.where(df.descricao.str.lower().str.contains('spark') |
+                     df.descricao.str.lower().str.contains('sql'),1,0)
 
-# company name
-# splitting rating and company
+df.etl.value_counts()
 
-# location
-#splitting city and state
+#-----------------------------------------------------------------------------------------------------------------
 
-# size
-# extract max employees as a number
+#4 - SaaS
 
-# founded
-# extract age 
+df['saas'] = np.where(df.descricao.str.lower().str.contains('aws') |
+                      df.descricao.str.lower().str.contains('azure') |
+                      df.descricao.str.lower().str.contains('google cloud platform') | 
+                      df.descricao.str.lower().str.contains('gcp') |
+                      df.descricao.str.lower().str.contains('databricks') 
+                      ,1,0)
 
-# ownership
+df.saas.value_counts()
 
-# industry
 
-# sector
+#-----------------------------------------------------------------------------------------------------------------
 
-# revenue
+#5 - Data viz
+
+
+df['ferramentas_bi'] = np.where(df.descricao.str.lower().str.contains('excel') |
+                                df.descricao.str.lower().str.contains('tableau') |
+                                df.descricao.str.lower().str.contains('power bi') |
+                                df.descricao.str.lower().str.contains('qlik')                           
+                                ,1,0)
+
+df.ferramentas_bi.value_counts()
+
+
+#-----------------------------------------------------------------------------------------------------------------
+
+#6 - ML
+# Machine Learning and ML(260), Artificial Intelligence, AI, 
+
+
+df['ml_ai'] = ([1 if (
+                        ('ml' in list(map(str.lower,x))) or 
+                        ('machine' in list(map(str.lower,x))) or
+                        ('ai' in list(map(str.lower,x))) or
+                        ('artificial' in list(map(str.lower,x)))                         
+                     )
+                else 0 for x in df.descricao.str.replace('[^a-zA-Z0-9 ]+','').str.strip().str.split()
+               ]   
+    )
+
+df.ml_ai.value_counts()
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       company (nome_empresa)          #
+#---------------------------------------#
+
+# Keeping just company name
+df['nome_empresa'] = df.apply(lambda x: x.nome_empresa.split('\n')[0] if x.nota != -1 else x.nome_empresa, axis = 1)
+
+
+#--------------------------------------------------#
+#  creating features from rating (nota)            #
+#--------------------------------------------------#
+
+
+# rating 
+
+# checking mean and median for apply into missing values(-1)
+
+#removing missing values to check de distribution
+df.nota[df.nota != -1].describe()
+
+#summing by rate
+df[df.nota != -1].groupby('nota')['nota'].count()
+
+#applying the median value where there are no company rating
+
+df['nota'] = np.where(df.nota ==-1, df[df.nota !=-1].nota.median(), df.nota)
+#3.8
+
+#--------------------------------------------------------------------------------------------------------
+
+
+#---------------------------------------#
+#       location (localizacao)          #
+#---------------------------------------#
+
+
+#splitting city (cidade) and state (estado)
+
+df.localizacao.head()
+
+df = (
+      df.assign(
+          cidade = lambda x: x.localizacao.str.split(',', expand=True)[0],
+          estado_tmp = lambda x: x.localizacao.str.split(',', expand=True)[1],
+          estado = lambda x: np.where(x.estado_tmp.isnull()==True,'NA',x.estado_tmp.str.strip()).astype(str)            
+     )
+     .drop(columns='estado_tmp')
+)
+
+
+#Filtering records that has missing states
+df_estados_na = df[df.estado == 'NA'].filter(items=['cidade','estado'])
+
+# Normalizing as lowercase
+df_estados_na['cidade'] = df_estados_na.cidade.str.lower()
+
+# External dataset to identify states
+df_estados = pd.read_csv(path+"states.csv",names=['estado','abv','codigo'],usecols=['estado','codigo'],skiprows=1)
+
+# Normalizing as lowercase
+df_estados['estado'] = df_estados.estado.str.lower()
+
+# Merging the dataframes in order to recovery the states
+df_estados_merge = df_estados_na.merge(df_estados, how='left',left_on='cidade', right_on='estado')
+
+# Filling states with NA value
+df_estados_na['codigo'] = np.where(df_estados_merge.codigo.isnull(),df_estados_merge.estado_x,df_estados_merge.codigo) 
+
+
+# Checking remaning NA values
+
+df_estados_na[df_estados_na.codigo=='NA'] 
+
+#----------------------------------------------------
+# Fixing states  manually based on city (cidade) name
+#----------------------------------------------------
+df_estados_na[df_estados_na.codigo=='NA'].groupby('cidade')['cidade'].count()
+
+# New York state
+df_estados_na['codigo'] = np.where((df_estados_na.cidade == 'new york state') & (df_estados_na.codigo == 'NA')
+                                  ,'NY',df_estados_na.codigo)
+
+# Puerto Rico
+df_estados_na['codigo'] = np.where((df_estados_na.cidade == 'puerto rico') & (df_estados_na.codigo == 'NA')
+                                  ,'PR',df_estados_na.codigo)
+
+# Washington
+df_estados_na['codigo'] = np.where((df_estados_na.cidade == 'washington state') & (df_estados_na.codigo == 'NA')
+                                  ,'DC',df_estados_na.codigo)
+
+# Merging results into main dataframe
+
+df_codigo_estados =  df_estados_na[['cidade','codigo']].merge(df[['cidade','estado']],how = 'outer',left_index = True,right_index = True,indicator = True )
+
+
+df['estado'] = np.where(df_codigo_estados._merge == 'both',df_codigo_estados.codigo,df.estado)
+
+
+#Fixing state field that have counties instead of 2 letter code abbreviation
+df['estado'] = np.where(df.estado.str.lower() == 'arapahoe'
+                        ,'CO'
+                        ,np.where(df.estado.str.lower() == 'cuyahoga','OH',df.estado))
+
+
+# deleting temporary tables
+del df_estados_merge, df_estados, df_estados_na, df_codigo_estados
+
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Size (tamanho)                  #
+#---------------------------------------#
+
+# Checking size distribution
+
+df.tamanho.value_counts()
+
+# Adjusting companies without size information
+df['tamanho'] = df.tamanho.apply(lambda x: 'Na' if (x == '-1' or x.lower() == 'unknown') else x)
+
+
+# extracting size as a number
+
+
+df = (
+      df.assign(
+                tamanho_min = lambda x: x.tamanho.str.split('to', expand = True)[0],
+                tamanho_max = lambda x: x.tamanho.str.split('to', expand = True)[1],
+                tamanho_tmp = lambda x: np.where(x.tamanho_max.isnull(), x.tamanho_min, x.tamanho_max),
+                tamanho_num_tmp = lambda x: np.where(x.tamanho_tmp == 'Na',-1,x.tamanho_tmp.str.replace('[a-zA-Z\\+]','').str.strip()),
+                tamanho_num = lambda x: x.tamanho_num_tmp.astype(int)                                                             
+       )
+       .drop(columns=['tamanho_min','tamanho_max','tamanho_tmp','tamanho_num_tmp'])
+)
+
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Fundation Year (Ano Fundacao)   #
+#---------------------------------------#
+
+# checking size distribution
+df.ano_fundacao.value_counts()
+
+# creating company age feature
+
+#get current year
+ano = int(date.today().strftime('%Y'))
+
+df['idade_empresa'] = df.ano_fundacao.apply(lambda x: x if x < 0 else ano - x)
+
+df.idade_empresa.describe()
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Ownership (Tipo Propriedade)    #
+#---------------------------------------#
+
+#checking distribution
+df.tipo_propriedade.value_counts(normalize=True)
+
+#Adjusting missing value as constant
+df['tipo_propriedade'] = df.tipo_propriedade.apply(lambda x: 'Na' if x == '-1' else x)
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Industry (Industria)            #
+#---------------------------------------#
+
+#checking distribution
+df.industria.value_counts(normalize=True)
+
+#Adjusting missing value as constant
+df['industria'] = df.industria.apply(lambda x: 'Na' if x == '-1'else x)
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Sector (Setor)                  #
+#---------------------------------------#
+
+#checking distribution
+df.setor.value_counts(normalize=True)
+
+#Adjusting missing value as constant
+df['setor'] = df.setor.apply(lambda x: 'Na' if x == '-1' else x)
+
+#--------------------------------------------------------------------------------------------------------
+
+#---------------------------------------#
+#       Revenue (Receita)               #
+#---------------------------------------#
+
+#checking distribution
+df.receita.value_counts()
+
+#Adjusting missing value as constant
+
+df['receita'] = df.receita.apply(lambda x: 'Na' if (x.strip() == '-1' or x.lower().strip() == 'unknown / non-applicable') else x) 
+
+
 # extract revenue  as number
+df = (
+      df.assign(
+             multiplicador  = np.where(df.receita == 'Na',-1,                               
+                              np.where(df.receita.str.contains('billion'),1000000000,
+                              np.where(df.receita.str.contains('million'),1000000,1))),
+             receita_min = lambda x: x.receita.str.split('to', expand=True)[0],     
+             receita_max = lambda x: x.receita.str.split('to', expand=True)[1],
+             receita_tmp = lambda x: np.where(x.receita_max.isnull(),x.receita_min,x.receita_max),
+             receita_re = lambda x: np.where(x.receita_tmp == 'Na','1',x.receita_tmp.str.replace('[a-zA-Z$\s()\\+]+','').str.strip()),
+             receita_num = lambda x: np.where(x.receita_tmp == 'Na',-1,x.receita_re.astype(int) * x.multiplicador)
+          
+          )
+          .drop(columns=['multiplicador','receita_min','receita_max','receita_tmp','receita_re'])
+    
+ )
+
+
+#Ordering and fitlering variables
+colunas = ['vaga_simplificada','senioridade','nome_empresa','tamanho','tipo_propriedade','industria','setor',
+           'receita','cidade','estado','idade_empresa','nota','fg_glassdor_est','fg_por_hora',
+           'salario_min','salario_max','salario_medio','descricao_qtd_palavras','tamanho_num','receita_num',
+           'estatistica','programacao','etl','saas','ferramentas_bi','ml_ai'
+           ]
+
+
+#Filtering variables 
+df = df[colunas]
+
+ 
+#train
+df.to_csv(path_store+'abt_train.csv', index=False, header=True)
+
+#oot
+#df.to_csv(path_store+'abt_ott.csv', index=False, header=True)
+
+
+
+
+
+
