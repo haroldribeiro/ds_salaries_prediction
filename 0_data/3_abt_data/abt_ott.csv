@@ -1,524 +1,524 @@
-vaga_simplificada,senioridade,nome_empresa,tamanho,tipo_propriedade,industria,setor,receita,cidade,estado,idade_empresa,nota,fg_glassdor_est,fg_por_hora,salario_min,salario_max,salario_medio,descricao_qtd_palavras,tamanho_num,receita_num,estatistica,programacao,etl,saas,ferramentas_bi,ml_ai
-Manager,Executive,Pathways,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,Na,Richardson,TX,-1,3.1,1,0,56000.0,111000.0,83500.0,178,10000,-1,0,0,0,0,0,0
-Data Scientist,Senior,Dealerware,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,5,4.0,1,0,67000.0,134000.0,100500.0,244,200,-1,1,0,0,0,0,1
-Data Analyist,Na,"NaphCare, Inc.",501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Birmingham,AL,-1,3.2,1,0,42000.0,87000.0,64500.0,121,1000,100000000,0,1,0,0,0,0
-Data Scientist,Junior,The Lauridsen Group,501 to 1000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,Na,Ankeny,IA,52,3.1,1,0,68000.0,147000.0,107500.0,72,1000,-1,0,0,0,0,0,0
-Data Scientist,Na,White Plains Hospital,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),White Plains,NY,128,3.9,1,0,52000.0,95000.0,73500.0,55,5000,500000000,0,0,0,0,0,0
-Data Engineer,Na,Covenant Physician Partners,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Nashville,TN,13,4.0,1,0,58000.0,118000.0,88000.0,97,5000,500000000,0,0,1,0,0,0
-Data Scientist,Senior,IsoPlexis,1 to 50 Employees,Company - Private,Na,Na,Less than $1 million (USD),Branford,CT,-1,3.6,1,0,81000.0,163000.0,122000.0,186,50,1000000,0,0,0,0,0,0
-Data Scientist,Senior,Katahdin Analytical Services,1 to 50 Employees,Company - Private,Na,Na,$5 to $10 million (USD),Scarborough,ME,-1,2.7,1,0,47000.0,93000.0,70000.0,109,50,10000000,0,0,0,0,1,0
-Data Scientist,Senior,Denison Pharmaceuticals,51 to 200 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$50 to $100 million (USD),Lincoln,RI,-1,2.8,1,0,55000.0,104000.0,79500.0,76,200,100000000,0,0,0,0,0,0
-Data Analyist,Na,Gundersen - La Crosse Main Campus,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),La Crosse,WI,130,3.8,1,0,57000.0,107000.0,82000.0,44,10000,500000000,0,0,0,0,0,0
-Data Analyist,Na,Progress Rail Services Corp.,5001 to 10000 Employees,Subsidiary or Business Segment,Rail,Transportation & Logistics,$2 to $5 billion (USD),La Grange,IL,38,3.5,1,0,59000.0,106000.0,82500.0,193,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Charles Schwab,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Austin,TX,48,3.9,0,0,101000.0,165000.0,133000.0,85,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,109000.0,173000.0,141000.0,33,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,veritis group inc,Na,Na,Na,Na,Na,Irving,TX,-1,4.0,0,1,116900.0,127000.0,122000.0,86,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,Eden Technologies,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Remote,NA,-1,3.4,0,1,116900.0,193500.0,155200.0,95,200,10000000,1,0,0,0,0,0
-Data Scientist,Junior,KesarWeb,Na,Na,Na,Na,Na,Point a la Hache,LA,-1,4.0,0,0,53000.0,110000.0,81500.0,57,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,0,1,155200.0,175400.0,165300.0,212,200,-1,0,1,1,1,0,0
-Data Scientist,Na,Home Lending Pal,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,79000.0,181000.0,130000.0,133,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,San Diego,CA,61,4.3,0,0,70000.0,103000.0,86500.0,32,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,110000.0,125000.0,117500.0,118,-1,-1,0,1,1,0,1,0
-Data Scientist,Na,"Custom Software Systems, Inc.",1 to 50 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),Washington,DC,31,4.5,0,0,90000.0,100000.0,95000.0,104,50,5000000,0,0,0,0,0,0
-Data Scientist,Na,Clark County Education Association,Na,Na,Na,Na,Na,Las Vegas,NV,-1,4.0,0,1,28200.0,48400.0,38300.0,143,-1,-1,1,0,0,0,0,0
-Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco,CA,17,4.3,0,0,149000.0,217000.0,183000.0,196,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,Liberty Mutual Insurance,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,NA,109,3.8,0,0,85000.0,139000.0,112000.0,184,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,AR systems inc,Na,Na,Na,Na,Na,West Warwick,RI,-1,4.0,0,0,100000.0,120000.0,110000.0,197,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,UVA Medical Center,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),Greenfields,VA,196,3.4,0,0,81000.0,130000.0,105500.0,244,10000,5000000,1,0,0,0,0,0
-Data Scientist,Junior,Eagle Rock Analytics,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,60000.0,60000.0,60000.0,149,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Ibotta,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Denver,CO,9,3.8,0,0,90000.0,120000.0,105000.0,825,1000,-1,1,1,1,0,1,1
-Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Seattle,WA,17,4.3,0,0,149000.0,217000.0,183000.0,196,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,Sound,501 to 1000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Tukwila,WA,55,3.2,0,0,149000.0,217000.0,183000.0,125,1000,100000000,1,0,0,0,1,1
-Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Burlingame,CA,17,4.3,0,0,149000.0,217000.0,183000.0,270,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Tech True Up,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,96800.0,116900.0,106800.0,50,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Prudent Technology,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),Remote,NA,-1,5.0,0,0,125000.0,140000.0,132500.0,175,50,5000000,0,0,0,1,0,0
-Data Scientist,Na,veritis group inc,Na,Na,Na,Na,Na,Irving,TX,-1,4.0,0,1,116900.0,127000.0,122000.0,91,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,"Search Leaders, LLC",1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Minneapolis,MN,23,3.6,0,0,140000.0,170000.0,155000.0,138,50,-1,0,0,0,0,0,0
-Data Scientist,Na,SKAEL,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,San Francisco,CA,4,5.0,0,0,120000.0,140000.0,130000.0,155,200,-1,0,0,0,0,0,1
-Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Burlingame,CA,17,4.3,0,0,120000.0,140000.0,130000.0,270,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Junior,"Croptix, LLC",Na,Na,Na,Na,Na,State College,PA,-1,4.0,0,0,120000.0,140000.0,130000.0,221,-1,-1,0,0,0,0,0,1
-Data Scientist,Senior,omega solutions inc,1 to 50 Employees,Self-employed,IT Services,Information Technology,Na,Santa Ana,CA,-1,2.8,0,0,120000.0,140000.0,130000.0,95,50,-1,0,0,0,0,0,0
-Data Engineer,Na,"Certec Consulting, inc",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,140000.0,130000.0,50,-1,-1,0,1,0,0,0,1
-Data Analyist,Na,Unsupervised,1 to 50 Employees,Unknown,Na,Na,Na,Colorado,CO,-1,4.0,0,0,120000.0,140000.0,130000.0,505,50,-1,0,0,0,0,1,1
-Data Scientist,Na,Stanford Health Care,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Palo Alto,CA,64,3.9,0,0,120000.0,140000.0,130000.0,143,10000,5000000000,0,0,0,0,0,0
-Data Engineer,Na,IBM,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Yorktown Heights,NY,110,3.9,0,0,120000.0,140000.0,130000.0,774,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Junior,Google,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Goleta,CA,23,4.5,0,0,120000.0,140000.0,130000.0,135,10000,10000000000,0,0,0,0,0,0
-Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,140000.0,130000.0,151,-1,-1,0,0,0,0,0,1
-Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,0,0,120000.0,140000.0,130000.0,391,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,140000.0,130000.0,121,-1,-1,0,0,0,0,0,1
-Data Engineer,Na,Cisco Systems,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Jose,CA,37,4.3,0,0,120000.0,140000.0,130000.0,702,10000,10000000000,1,1,1,0,1,1
-Data Scientist,Na,Sun Oak,1 to 50 Employees,Company - Private,Consulting,Business Services,Na,Miami,FL,3,4.0,0,0,120000.0,140000.0,130000.0,211,50,-1,0,0,0,0,0,0
-Data Engineer,Na,Agile N2N Inc,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,140000.0,130000.0,68,-1,-1,1,0,0,0,0,1
-Na,Na,Insulet Corporation,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),Acton,MA,21,3.3,0,0,120000.0,140000.0,130000.0,108,5000,1000000000,0,0,0,0,1,0
-Data Scientist,Na,TWO NIL,1 to 50 Employees,Company - Private,Advertising & Marketing,Business Services,Na,California,CA,2,2.9,0,0,120000.0,140000.0,130000.0,517,50,-1,1,1,1,0,1,1
-Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Menlo Park,CA,17,4.3,0,0,120000.0,140000.0,130000.0,220,10000,10000000000,0,0,0,0,1,0
-Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,120000.0,140000.0,130000.0,908,200,-1,1,1,0,0,0,1
-Data Scientist,Junior,CALSTART,51 to 200 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),Pasadena,CA,-1,4.0,0,0,120000.0,140000.0,130000.0,149,200,50000000,0,0,0,0,0,0
-Data Scientist,Na,SparkCognition,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,8,4.3,0,0,120000.0,140000.0,130000.0,137,200,-1,0,0,1,0,0,1
-Na,Na,McKinsey & Company,10000+ Employees,Company - Private,Consulting,Business Services,Na,East Boston,MA,95,4.4,0,0,120000.0,140000.0,130000.0,74,10000,-1,1,1,1,0,0,1
-Data Scientist,Na,"CoEnterprise, LLC",51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),New York,NY,11,3.6,0,0,120000.0,140000.0,130000.0,156,200,50000000,0,0,0,0,1,0
-Data Scientist,Na,Abbvie,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Crystal Lake,IL,8,3.9,0,0,120000.0,140000.0,130000.0,240,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Tekcogno,1 to 50 Employees,Unknown,Na,Na,Na,Austin,TX,-1,4.5,0,0,120000.0,140000.0,130000.0,85,50,-1,0,1,0,0,0,0
-Data Scientist,Junior,Barchart,51 to 200 Employees,Company - Private,Financial Analytics & Research,Finance,Na,Chicago,IL,-1,4.7,0,0,120000.0,140000.0,130000.0,68,200,-1,0,1,0,0,0,0
-Data Scientist,Senior,Talentica Software,Na,Na,Na,Na,Na,Malvern,PA,-1,4.0,0,0,120000.0,140000.0,130000.0,92,-1,-1,1,0,1,1,0,1
-Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,120000.0,140000.0,130000.0,80,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Amica Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,0,0,120000.0,140000.0,130000.0,60,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,LineSlip Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,140000.0,130000.0,104,-1,-1,0,0,0,0,0,0
-Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,0,0,149000.0,217000.0,183000.0,391,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,Spectrum,10000+ Employees,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Greenwood Village,CO,5,3.2,0,0,149000.0,217000.0,183000.0,152,10000,10000000000,1,0,0,0,0,1
-Data Scientist,Na,Siemens,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),Tarrytown,NY,178,4.1,0,0,149000.0,217000.0,183000.0,161,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Intelligent Automation,51 to 200 Employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),Rockville,MD,34,3.8,1,0,71000.0,136000.0,103500.0,125,200,50000000,0,0,0,0,0,1
-Data Scientist,Na,U.S. Customs and Border Protection,10000+ Employees,Government,Federal Agencies,Government,Na,Sterling,VA,94,4.0,1,0,56000.0,114000.0,85000.0,62,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,DEPARTMENT OF SANITATION,5001 to 10000 Employees,Government,Municipal Governments,Government,Na,New York,NY,-1,3.9,1,0,59000.0,118000.0,88500.0,45,10000,-1,0,0,0,0,0,0
-Data Analyist,Senior,Southworth Products Corp.,Na,Na,Na,Na,Na,Falmouth,ME,-1,4.0,1,0,43000.0,85000.0,64000.0,133,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,"SECANT GROUP, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,53000.0,105000.0,79000.0,125,200,-1,0,0,0,0,0,0
-Data Analyist,Na,Uline,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),Pleasant Prairie,WI,41,3.6,0,0,65000.0,79000.0,72000.0,81,10000,10000000000,0,0,0,0,1,0
-Data Analyist,Na,Uline,Na,Na,Na,Na,Na,Pleasant Prairie,WI,-1,3.6,0,0,65000.0,79000.0,72000.0,81,-1,-1,0,0,0,0,1,0
-Data Scientist,Na,Deaconess Health System,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),Princeton,IN,39,3.8,1,0,22000.0,44000.0,33000.0,59,10000,5000000,0,0,0,0,0,0
-Data Scientist,Mid,AMPAC Fine Chemicals,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),Rancho Cordova,CA,16,3.0,1,0,54000.0,110000.0,82000.0,89,1000,500000000,0,0,0,0,0,0
-Data Scientist,Na,AGC Biologics,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Bothell,WA,-1,3.7,1,0,58000.0,107000.0,82500.0,154,5000,-1,0,0,0,0,0,0
-Data Scientist,Na,Brigham and Women's Hospital (BWH),Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,53000.0,104000.0,78500.0,144,-1,-1,0,1,0,0,0,0
-Data Analyist,Na,Penn State Health Milton S. Hershey Medical Center,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,Na,Hershey,PA,-1,3.9,1,0,38000.0,74000.0,56000.0,89,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,"BioCheck, Inc.",Na,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),South San Francisco,CA,-1,1.0,1,0,66000.0,125000.0,95500.0,77,-1,10000000,0,0,0,0,0,0
-Data Scientist,Senior,"Secant Group, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,53000.0,105000.0,79000.0,130,200,-1,0,0,0,0,0,0
-Data Scientist,Senior,Translational Drug Development (TD2),Na,Na,Na,Na,Na,Scottsdale,AZ,-1,4.0,1,0,75000.0,159000.0,117000.0,80,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,United Therapeutics,501 to 1000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Research Triangle Park,NC,25,4.4,1,0,51000.0,95000.0,73000.0,105,1000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,United Therapeutics,Na,Na,Na,Na,Na,Research Triangle Park,NC,-1,4.4,1,0,51000.0,95000.0,73000.0,105,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,"SECANT GROUP, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,53000.0,105000.0,79000.0,130,200,-1,0,0,0,0,0,0
-Data Scientist,Senior,Metalenz,Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,90000.0,189000.0,139500.0,117,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,"Catalog Technologies, Inc.",Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,39000.0,99000.0,69000.0,110,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Middleton,WI,36,4.0,1,0,44000.0,85000.0,64500.0,96,10000,2000000000,0,0,0,0,0,0
-Data Engineer,Na,NT Concepts,51 to 200 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Herndon,VA,23,3.8,1,0,72000.0,136000.0,104000.0,159,200,100000000,0,0,0,0,0,1
-Data Scientist,Na,Ambagon Therapeutics,Na,Na,Na,Na,Na,San Carlos,CA,-1,4.0,1,0,84000.0,185000.0,134500.0,140,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,89000.0,191000.0,140000.0,123,10000,10000000000,0,0,1,0,0,0
-Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,89000.0,191000.0,140000.0,184,5000,-1,0,0,0,0,0,0
-Data Scientist,Senior,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,California,CA,61,4.3,1,0,89000.0,191000.0,140000.0,118,10000,-1,0,0,0,0,1,0
-Data Scientist,Na,Fulgent Genetics,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Temple City,CA,-1,3.7,1,0,89000.0,191000.0,140000.0,130,200,-1,0,0,0,0,0,0
-Data Scientist,Na,"Inanovate, Inc",Na,Na,Na,Na,Na,Sioux Falls,SD,-1,4.0,1,0,89000.0,191000.0,140000.0,113,-1,-1,0,0,0,0,0,0
-Data Engineer,Na,Savant,201 to 500 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,Na,Cleveland,OH,16,3.2,1,0,89000.0,191000.0,140000.0,142,500,-1,0,0,0,0,0,0
-Data Engineer,Na,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Rosslyn,VA,171,3.9,1,0,89000.0,191000.0,140000.0,148,10000,10000000000,0,1,0,1,1,1
-Data Scientist,Mid,Cottage Health,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),Goleta,CA,133,4.5,1,0,89000.0,191000.0,140000.0,113,5000,1000000000,0,0,0,0,0,0
-Data Scientist,Mid,Cottage Health,Na,Na,Na,Na,Na,Goleta,CA,-1,4.5,1,0,89000.0,191000.0,140000.0,113,-1,-1,0,0,0,0,0,0
-Data Scientist,Junior,Thermo Fisher - America,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,89000.0,191000.0,140000.0,153,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Na,Visiting Nurse Association of Central Jersey,1001 to 5000 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),Holmdel,NJ,109,3.0,1,0,89000.0,191000.0,140000.0,286,5000,100000000,0,0,0,1,0,0
-Data Analyist,Na,Progress Rail Services Corp.,5001 to 10000 Employees,Subsidiary or Business Segment,Rail,Transportation & Logistics,$2 to $5 billion (USD),La Grange,IL,38,3.5,1,0,89000.0,191000.0,140000.0,193,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Senior,"Miltenyi Biomedicine, Inc.",Na,Na,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,89000.0,191000.0,140000.0,139,-1,-1,0,0,0,0,1,0
-Data Analyist,Na,GreatAmerica Financial Services,Na,Na,Na,Na,Na,Cedar Rapids,IA,-1,4.3,1,0,89000.0,191000.0,140000.0,137,-1,-1,0,0,0,0,0,0
-Data Engineer,Na,AmerisourceBergen,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Boise,ID,20,3.5,1,0,89000.0,191000.0,140000.0,168,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Junior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,89000.0,191000.0,140000.0,257,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Middleton,WI,36,4.0,1,0,89000.0,191000.0,140000.0,115,10000,2000000000,0,0,0,0,0,0
-Manager,Executive,Pathways,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,Na,Richardson,TX,-1,3.1,1,0,89000.0,191000.0,140000.0,178,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,LIFELINE CELL TECHNOLOGY,Na,Na,Na,Na,Na,Oceanside,CA,-1,4.0,1,0,89000.0,191000.0,140000.0,98,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,89000.0,191000.0,140000.0,229,10000,5000000000,0,0,0,0,1,1
-Data Engineer,Senior,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Washington,DC,171,3.9,1,0,89000.0,191000.0,140000.0,180,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Adventist Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Na,Tehachapi,CA,48,3.7,1,0,89000.0,191000.0,140000.0,132,10000,-1,0,0,0,0,0,0
-Data Engineer,Executive,Clarus Commerce,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Connecticut,CT,20,4.4,1,0,89000.0,191000.0,140000.0,446,200,-1,0,0,0,0,1,0
-Data Engineer,Na,IntraFi Network,201 to 500 Employees,Company - Private,Financial Transaction Processing,Finance,Na,Arlington,VA,19,4.9,1,0,89000.0,191000.0,140000.0,171,500,-1,0,0,0,0,0,0
-Data Scientist,Na,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Danbury,CT,55,3.8,1,0,89000.0,191000.0,140000.0,151,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Senior,Ab Studio Inc.,Na,Na,Na,Na,Na,Hayward,CA,-1,4.0,1,0,89000.0,191000.0,140000.0,78,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Ambler,PA,55,3.8,1,0,89000.0,191000.0,140000.0,151,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Senior,Just - Evotec Biologics,1 to 50 Employees,Company - Private,Na,Na,$1 to $5 million (USD),Redmond,WA,-1,4.8,1,0,89000.0,191000.0,140000.0,127,50,5000000,0,0,0,0,0,0
-Data Scientist,Senior,Just - Evotec Biologics,Na,Na,Na,Na,Na,Redmond,WA,-1,4.8,1,0,89000.0,191000.0,140000.0,127,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Flow Health,Na,Na,Na,Na,Na,Miami,FL,-1,4.2,1,0,89000.0,191000.0,140000.0,84,-1,-1,0,0,0,0,0,0
-Na,Senior,Accenture,Na,Na,Na,Na,Na,Cincinnati,OH,-1,4.0,1,0,89000.0,191000.0,140000.0,160,-1,-1,1,0,1,0,0,1
-Data Scientist,Na,TEKsystems,1001 to 5000 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),Juno Beach,FL,38,3.8,1,0,79000.0,144000.0,111500.0,142,5000,5000000000,0,1,0,0,0,1
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,79000.0,144000.0,111500.0,164,10000,10000000000,1,0,0,0,0,1
-Na,Senior,Accenture,10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Cincinnati,OH,32,4.0,1,0,79000.0,144000.0,111500.0,160,10000,10000000000,1,0,1,0,0,1
-Data Analyist,Na,GTL,1001 to 5000 Employees,Company - Private,Telecommunications Services,Telecommunications,$500 million to $1 billion (USD),Indianapolis,IN,32,3.1,1,0,79000.0,144000.0,111500.0,499,5000,1000000000,1,0,0,1,1,0
-Data Analyist,Na,General Dynamics,10000+ Employees,Subsidiary or Business Segment,IT Services,Information Technology,$2 to $5 billion (USD),Washington,DC,25,3.8,1,0,79000.0,144000.0,111500.0,154,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Providence,RI,36,4.0,1,0,79000.0,144000.0,111500.0,117,10000,2000000000,0,0,0,0,0,0
-Machine Learning,Na,"Physicians Laboratory Services, Inc",Na,Na,Na,Na,Na,Lincoln,NE,-1,4.0,1,0,79000.0,144000.0,111500.0,90,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Worcester,MA,36,4.0,1,0,79000.0,144000.0,111500.0,70,10000,2000000000,0,0,0,0,0,0
-Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Worcester,MA,36,4.0,1,0,79000.0,144000.0,111500.0,70,10000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,"Seneca Companies, Inc.",201 to 500 Employees,Company - Private,Construction,"Construction, Repair & Maintenance",$10 to $25 million (USD),Des Moines,IA,49,4.1,1,0,79000.0,144000.0,111500.0,132,500,25000000,0,0,0,0,0,0
-Data Engineer,Na,Verstand AI,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,79000.0,144000.0,111500.0,146,-1,-1,0,0,0,0,0,1
-Data Engineer,Senior,Eide Bailly,1001 to 5000 Employees,Company - Private,Accounting,Accounting & Legal,$100 to $500 million (USD),Fargo,ND,104,4.0,1,0,79000.0,144000.0,111500.0,491,5000,500000000,1,1,1,1,1,0
-Data Scientist,Na,Intelligent Automation,51 to 200 Employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),Rockville,MD,34,3.8,1,0,79000.0,144000.0,111500.0,125,200,50000000,0,0,0,0,0,1
-Manager,Executive,Fannie Mae,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Reston,VA,83,4.0,1,0,79000.0,144000.0,111500.0,134,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Senior,AmerisourceBergen,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Chesterbrook,PA,20,3.5,1,0,79000.0,144000.0,111500.0,186,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Burnet,TX,55,3.8,1,0,79000.0,144000.0,111500.0,151,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),North Chicago,IL,36,4.0,1,0,79000.0,144000.0,111500.0,122,10000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),New York,NY,17,4.3,1,0,79000.0,144000.0,111500.0,107,10000,5000000000,0,0,0,0,0,1
-Data Engineer,Na,Excelerated Analytics LLC,Na,Na,Na,Na,Na,Stafford,VA,-1,4.0,1,0,79000.0,144000.0,111500.0,86,-1,-1,1,0,0,0,0,0
-Data Scientist,Senior,"Cellics Therapeutics, Inc.",Na,Na,Na,Na,Na,San Diego,CA,-1,4.0,1,0,79000.0,144000.0,111500.0,110,-1,-1,0,0,0,0,1,0
-Data Scientist,Mid,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Worcester,MA,74,3.5,1,0,79000.0,144000.0,111500.0,97,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Mid,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Shrewsbury,MA,74,3.5,1,0,79000.0,144000.0,111500.0,112,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Senior,Conagen Inc.,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,New Bedford,MA,-1,2.9,1,0,79000.0,144000.0,111500.0,78,200,-1,0,0,0,0,0,0
-Data Scientist,Senior,Creative Radicals,Na,Na,Na,Na,Na,McLean,VA,-1,4.0,1,0,79000.0,144000.0,111500.0,89,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,"Phosphorex,Inc",Na,Na,Na,Na,Na,Hopkinton,MA,-1,4.0,1,0,79000.0,144000.0,111500.0,110,-1,-1,0,0,0,0,0,0
-Data Engineer,Senior,"TBK Bank, SSB",1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,Na,Coppell,TX,15,3.6,1,0,79000.0,144000.0,111500.0,169,5000,-1,0,0,0,0,0,0
-Data Engineer,Senior,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Washington,DC,171,3.9,1,0,79000.0,144000.0,111500.0,181,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,PolyPeptide Group,Na,Na,Na,Na,Na,Torrance,CA,-1,4.0,1,0,79000.0,144000.0,111500.0,101,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Collegeville,PA,36,4.0,1,0,79000.0,144000.0,111500.0,229,10000,2000000000,0,0,0,0,0,0
-Data Engineer,Senior,Space Telescope Science Institute,501 to 1000 Employees,Company - Private,Colleges & Universities,Education,$25 to $50 million (USD),Baltimore,MD,40,3.7,1,0,79000.0,144000.0,111500.0,161,1000,50000000,0,0,0,0,0,0
-Data Engineer,Senior,Space Telescope Science Institute,Na,Na,Na,Na,Na,Baltimore,MD,-1,3.7,1,0,79000.0,144000.0,111500.0,161,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,DxTerity,Na,Na,Na,Na,Na,Rancho Dominguez,CA,-1,4.0,1,0,79000.0,144000.0,111500.0,95,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,CES Limited,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Woonsocket,RI,8,3.5,1,0,89000.0,166000.0,127500.0,81,200,10000000,0,0,0,0,1,0
-Data Engineer,Na,Trexin Consulting,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),Chicago,IL,16,4.0,1,0,89000.0,166000.0,127500.0,189,200,50000000,0,0,0,0,0,1
-Data Engineer,Senior,Excella,201 to 500 Employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),Arlington,VA,19,4.3,1,0,89000.0,166000.0,127500.0,120,500,100000000,0,0,0,0,1,0
-Data Scientist,Na,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Billerica,MA,74,3.5,1,0,89000.0,166000.0,127500.0,114,10000,5000000000,0,0,0,0,0,0
-Data Analyist,Senior,"Healthcare Retroactive Audits, Inc",Na,Na,Na,Na,Na,Doral,FL,-1,4.0,1,0,89000.0,166000.0,127500.0,81,-1,-1,0,0,1,0,1,0
-Data Scientist,Senior,"Silverback Therapeutics, Inc.",1 to 50 Employees,Company - Public,Na,Na,Na,Seattle,WA,-1,3.1,1,0,89000.0,166000.0,127500.0,123,50,-1,0,0,0,0,0,0
-Data Scientist,Senior,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,California,CA,61,4.3,1,0,89000.0,166000.0,127500.0,78,10000,-1,0,0,0,0,0,0
-Director,Senior,Fulgent Genetics,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Temple City,CA,-1,3.7,1,0,89000.0,166000.0,127500.0,121,200,-1,0,0,0,0,0,0
-Manager,Executive,Clarus Commerce,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Connecticut,CT,20,4.4,1,0,89000.0,166000.0,127500.0,268,200,-1,0,0,0,0,1,0
-Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Folsom,CA,22,4.3,1,0,89000.0,166000.0,127500.0,116,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Junior,Earth Engineering Inc.,51 to 200 Employees,Company - Private,Construction,"Construction, Repair & Maintenance",$5 to $10 million (USD),Emmaus,PA,31,3.1,1,0,89000.0,166000.0,127500.0,175,200,10000000,0,0,0,0,0,0
-Data Analyist,Senior,BankUnited,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),Miami Lakes,FL,12,3.1,1,0,89000.0,166000.0,127500.0,151,5000,10000000000,1,0,0,0,0,0
-Data Scientist,Senior,"BioCheck, Inc.",Na,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),South San Francisco,CA,-1,1.0,1,0,89000.0,166000.0,127500.0,95,-1,10000000,0,0,0,0,1,0
-Data Scientist,Senior,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Burnet,TX,55,3.8,1,0,89000.0,166000.0,127500.0,151,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,Aridis Pharmaceuticals,Na,Na,Na,Na,Na,Los Gatos,CA,-1,4.0,1,0,89000.0,166000.0,127500.0,147,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,"Biomodels, LLC",Na,Na,Na,Na,Na,Waltham,MA,-1,4.0,1,0,89000.0,166000.0,127500.0,125,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Healthfirst,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,Na,New York,NY,28,3.5,1,0,89000.0,166000.0,127500.0,147,10000,-1,1,0,0,0,0,0
-Data Scientist,Senior,Riverain Technologies,Na,Na,Na,Na,Na,Miamisburg,OH,-1,4.0,1,0,89000.0,166000.0,127500.0,145,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,Abt Associates,1001 to 5000 Employees,Company - Private,Research & Development,Business Services,$500 million to $1 billion (USD),Rockville,MD,56,3.6,1,0,89000.0,166000.0,127500.0,163,5000,1000000000,0,0,0,0,0,0
-Data Analyist,Na,Doximity,201 to 500 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Na,New York State,NY,11,4.7,1,0,89000.0,166000.0,127500.0,581,500,-1,1,1,1,0,1,0
-Data Analyist,Na,Great American Life Insurance Company,501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,Na,Cincinnati,OH,29,4.0,1,0,89000.0,166000.0,127500.0,178,1000,-1,0,0,0,0,0,0
-Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),La Jolla,CA,22,4.3,1,0,89000.0,166000.0,127500.0,127,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,CDK Global,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Portland,OR,7,3.5,1,0,89000.0,166000.0,127500.0,119,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Predictive Health Diagnostics Co.,Na,Na,Na,Na,Na,Irvine,CA,-1,4.0,1,0,89000.0,166000.0,127500.0,77,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,"Silverback Therapeutics, Inc.",1 to 50 Employees,Company - Public,Na,Na,Na,Seattle,WA,-1,3.1,1,0,89000.0,166000.0,127500.0,116,50,-1,0,0,0,0,0,0
-Data Engineer,Na,"INNOVEX Environmental Management, Inc.",1 to 50 Employees,Company - Private,Na,Na,$1 to $5 million (USD),Redmond,WA,-1,4.0,1,0,89000.0,166000.0,127500.0,115,50,5000000,0,0,0,0,0,0
-Data Scientist,Na,Ronin Staffing LLC,Na,Na,Na,Na,Na,Thousand Oaks,CA,-1,4.0,1,0,89000.0,166000.0,127500.0,58,-1,-1,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,89000.0,166000.0,127500.0,104,10000,10000000000,0,0,0,0,0,1
-Data Analyist,Na,Bedrock Quartz,Na,Na,Na,Na,Na,West Jordan,UT,-1,4.0,1,0,89000.0,166000.0,127500.0,88,-1,-1,0,0,0,0,0,0
-Data Scientist,Executive,Catalyst Lab Solutions,1 to 50 Employees,Company - Private,Na,Na,Na,Philadelphia,PA,-1,4.0,1,0,89000.0,166000.0,127500.0,68,50,-1,0,0,0,0,0,0
-Data Engineer,Senior,Synbio Technologies LLC,Na,Na,Na,Na,Na,Princeton,NJ,-1,4.0,1,0,89000.0,166000.0,127500.0,113,-1,-1,0,0,0,0,0,0
-Data Engineer,Na,St. Luke's Hospital,1001 to 5000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Chesterfield,MO,37,3.9,1,0,89000.0,166000.0,127500.0,179,5000,100000000,0,0,0,0,1,0
-Data Analyist,Na,New Mexico Mutual,51 to 200 Employees,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),New Mexico,NM,30,3.4,1,0,73000.0,146000.0,109500.0,71,200,500000000,0,0,0,0,0,0
-Data Scientist,Na,B4CORP,51 to 200 Employees,Company - Private,IT Services,Information Technology,Na,McLean,VA,-1,5.0,1,0,73000.0,146000.0,109500.0,66,200,-1,0,0,0,0,0,0
-Na,Na,Bloomberg,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,New York,NY,40,4.1,1,0,73000.0,146000.0,109500.0,177,10000,-1,0,0,0,0,1,0
-Data Scientist,Na,Cyient,10000+ Employees,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),Phoenix,AZ,30,3.3,1,0,73000.0,146000.0,109500.0,119,10000,500000000,1,0,0,0,0,1
-Data Engineer,Na,Doximity,201 to 500 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Na,North Carolina,NC,11,4.7,1,0,73000.0,146000.0,109500.0,690,500,-1,0,1,1,1,0,1
-Na,Senior,ASR ANALYTICS LLC,1 to 50 Employees,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD),Phoenix,AZ,-1,4.1,1,0,73000.0,146000.0,109500.0,86,50,5000000,0,0,0,0,0,0
-Data Scientist,Senior,Active Motif Inc,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),Carlsbad,CA,-1,3.8,1,0,73000.0,146000.0,109500.0,11,200,25000000,0,0,0,0,0,0
-Data Scientist,Na,Comcast,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Philadelphia,PA,58,3.8,1,0,73000.0,146000.0,109500.0,970,10000,10000000000,1,1,1,0,0,1
-Data Scientist,Senior,WOOD Consulting Services,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),Annapolis Junction,MD,24,3.2,1,0,73000.0,146000.0,109500.0,117,200,25000000,0,0,0,0,0,0
-Data Scientist,Senior,Absorption Systems,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Exton,PA,25,3.4,1,0,73000.0,146000.0,109500.0,124,200,-1,0,0,0,0,0,0
-Manager,Senior,Hologic,5001 to 10000 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),San Diego,CA,36,3.9,1,0,73000.0,146000.0,109500.0,127,10000,5000000000,0,0,0,1,0,0
-Data Scientist,Senior,Dealerware,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,5,4.0,1,0,73000.0,146000.0,109500.0,244,200,-1,1,0,0,0,0,1
-Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Carpinteria,CA,22,4.3,1,0,73000.0,146000.0,109500.0,135,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Forward Greens,Na,Na,Na,Na,Na,Vancouver,WA,-1,4.0,1,0,73000.0,146000.0,109500.0,15,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),San Francisco,CA,22,4.3,1,0,73000.0,146000.0,109500.0,144,10000,5000000000,0,0,0,0,0,0
-Manager,Executive,"CircusTrix, LLC",1001 to 5000 Employees,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Na,Los Angeles,CA,-1,3.2,1,0,73000.0,146000.0,109500.0,142,5000,-1,0,0,0,0,0,0
-Data Scientist,Na,DSM,10000+ Employees,Company - Public,Chemical Manufacturing,Manufacturing,$5 to $10 billion (USD),Columbia,MD,-1,4.0,1,0,73000.0,146000.0,109500.0,123,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Na,Reproductive Medicine Associates of New Jersey,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Basking Ridge,NJ,22,3.5,1,0,73000.0,146000.0,109500.0,112,5000,500000000,0,0,0,0,0,0
-Na,Na,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,73000.0,146000.0,109500.0,147,10000,5000000000,0,0,0,0,1,0
-Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Albany,OR,52,3.9,1,0,73000.0,146000.0,109500.0,213,10000,10000000000,0,0,0,0,0,0
-Na,Na,Transamerica,5001 to 10000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),Denver,CO,117,3.0,1,0,73000.0,146000.0,109500.0,106,10000,10000000000,0,1,0,1,0,0
-Data Scientist,Senior,Union Bank,5001 to 10000 Employees,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD),Irvine,CA,157,3.3,1,0,73000.0,146000.0,109500.0,111,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Senior,"ENSCO, Inc.",501 to 1000 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),Fairfax,VA,52,4.1,1,0,73000.0,146000.0,109500.0,126,1000,500000000,0,0,0,0,0,0
-Data Scientist,Na,LACORE Nutraceuticals,51 to 200 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,McKinney,TX,-1,2.6,1,0,73000.0,146000.0,109500.0,129,200,-1,0,0,0,0,0,0
-Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Albany,OR,52,3.9,1,0,73000.0,146000.0,109500.0,183,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,73000.0,146000.0,109500.0,255,10000,5000000000,1,0,0,0,1,0
-Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),San Diego,CA,52,3.9,1,0,73000.0,146000.0,109500.0,99,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Na,"Tyler Technologies, Inc.",1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$500 million to $1 billion (USD),Plano,TX,55,4.0,1,0,73000.0,146000.0,109500.0,235,5000,1000000000,0,0,1,0,0,0
-Data Analyist,Senior,Syneos Health Clinical,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Somerset,NJ,-1,3.7,1,0,73000.0,146000.0,109500.0,94,10000,-1,0,0,0,0,0,0
-Data Analyist,Senior,DealerPolicy,201 to 500 Employees,Unknown,Insurance Agencies & Brokerages,Insurance,Na,Williston,VT,6,4.0,1,0,73000.0,146000.0,109500.0,456,500,-1,0,0,1,1,0,0
-Data Scientist,Na,"ARKRAY USA, Inc.",1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,Minneapolis,MN,61,2.9,1,0,73000.0,146000.0,109500.0,130,5000,-1,0,0,0,0,0,0
-Data Scientist,Na,Revel IT,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Tucson,AZ,24,4.8,1,0,73000.0,146000.0,109500.0,88,500,100000000,0,0,0,0,0,0
-Data Engineer,Senior,SPECTRUM,10000+ Employees,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Denver,CO,5,3.2,1,0,88000.0,176000.0,132000.0,830,10000,10000000000,0,1,1,0,1,1
-Data Scientist,Senior,Northrop Grumman,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Baltimore,MD,82,4.0,1,0,88000.0,176000.0,132000.0,42,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Revel IT,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Tucson,AZ,24,4.8,1,0,88000.0,176000.0,132000.0,88,500,100000000,0,0,0,0,0,0
-Data Scientist,Na,"ARKRAY USA, Inc.",1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,Minneapolis,MN,61,2.9,1,0,88000.0,176000.0,132000.0,130,5000,-1,0,0,0,0,0,0
-Data Engineer,Na,Vital Incite,Na,Na,Na,Na,Na,Indianapolis,IN,-1,4.0,1,0,88000.0,176000.0,132000.0,82,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Ascension Health,Na,Na,Na,Na,Na,Rochester,MI,-1,4.0,1,0,88000.0,176000.0,132000.0,53,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Amica Mutual Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,1,0,88000.0,176000.0,132000.0,59,5000,2000000000,0,0,0,0,0,0
-Na,Senior,ASR ANALYTICS LLC,1 to 50 Employees,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD),Washington,DC,-1,4.1,1,0,88000.0,176000.0,132000.0,71,50,5000000,1,0,0,0,0,1
-Data Engineer,Senior,"Agilent Technologies, Inc.",Na,Na,Na,Na,Na,Santa Clara,CA,-1,4.0,1,0,88000.0,176000.0,132000.0,201,-1,-1,0,0,0,0,1,1
-Data Analyist,Na,American Direct Marketing Resources,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,Na,Chesterfield,MO,38,3.4,1,0,88000.0,176000.0,132000.0,73,200,-1,0,0,0,0,0,0
-Manager,Executive,Colgate-Palmolive,10000+ Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),New York,NY,215,4.2,1,0,88000.0,176000.0,132000.0,124,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Na,"Warehouse Services, Inc.",51 to 200 Employees,Company - Private,Na,Na,Na,Liberty,SC,-1,4.0,1,0,88000.0,176000.0,132000.0,93,200,-1,0,0,0,0,0,0
-Data Scientist,Senior,Global Nephrology Solutions,1 to 50 Employees,Company - Private,Na,Na,Na,Tempe,AZ,-1,2.5,1,0,88000.0,176000.0,132000.0,137,50,-1,0,0,0,0,0,1
-Data Scientist,Na,Osmose Utilities Services,1001 to 5000 Employees,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),Depew,NY,87,3.4,1,0,88000.0,176000.0,132000.0,142,5000,100000000,0,0,0,0,1,0
-Data Analyist,Na,EpochGeo,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,88000.0,176000.0,132000.0,158,-1,-1,0,0,0,0,0,0
-Data Analyist,Senior,"CONNECT, powered by American Family Insurance",501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),Chicago,IL,-1,3.2,1,0,88000.0,176000.0,132000.0,160,1000,500000000,1,0,0,0,0,0
-Data Scientist,Senior,international aids vaccine,51 to 200 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),La Jolla,CA,25,3.4,1,0,88000.0,176000.0,132000.0,141,200,100000000,0,0,0,0,0,0
-Data Engineer,Na,EpochGeo,Na,Na,Na,Na,Na,Reston,VA,-1,4.0,1,0,88000.0,176000.0,132000.0,151,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Stem Pharm,Na,Na,Na,Na,Na,Madison,WI,-1,4.0,1,0,88000.0,176000.0,132000.0,111,-1,-1,0,0,0,0,0,0
-Data Engineer,Senior,HSW Consulting,Na,Na,Na,Na,Na,Tampa,FL,-1,4.0,1,0,88000.0,176000.0,132000.0,155,-1,-1,0,0,0,0,1,0
-Na,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Reston,VA,52,3.9,1,0,88000.0,176000.0,132000.0,124,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,OneMain Financial,5001 to 10000 Employees,Company - Public,Lending,Finance,Na,Wilmington,DE,109,3.5,1,0,88000.0,176000.0,132000.0,155,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,PepGen,Na,Na,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,88000.0,176000.0,132000.0,112,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Flamma USA,Na,Na,Na,Na,Na,Malvern,PA,-1,4.0,1,0,88000.0,176000.0,132000.0,86,-1,-1,0,0,0,0,0,0
-Data Engineer,Na,Unum,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Portland,ME,173,3.8,1,0,88000.0,176000.0,132000.0,276,10000,10000000000,0,0,0,0,1,0
-Data Analyist,Na,Amica Mutual Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,1,0,88000.0,176000.0,132000.0,90,5000,2000000000,0,0,0,0,1,0
-Data Scientist,Na,Envision LLC,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Saint Louis,MO,27,4.5,1,0,88000.0,176000.0,132000.0,71,500,50000000,1,1,1,0,0,1
-Data Scientist,Junior,Fidelity TalentSource,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Durham,NC,35,3.5,1,0,88000.0,176000.0,132000.0,124,5000,-1,0,0,0,0,0,1
-Data Analyist,Na,Sperry Rail Inc.,201 to 500 Employees,Company - Private,Rail,Transportation & Logistics,Na,Shelton,CT,93,3.0,1,0,88000.0,176000.0,132000.0,79,500,-1,0,0,0,0,0,0
-Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco,CA,17,4.3,1,0,88000.0,176000.0,132000.0,196,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,88000.0,176000.0,132000.0,130,10000,10000000000,0,0,0,0,0,1
-Data Analyist,Na,The Burchell Group,Na,Na,Na,Na,Na,Houston,TX,-1,4.0,1,0,88000.0,176000.0,132000.0,22,-1,-1,0,0,0,0,0,0
-Data Analyist,Senior,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Alexandria,VA,52,3.9,1,0,85000.0,150000.0,117500.0,64,10000,10000000000,0,0,0,0,0,0
-Machine Learning,Na,Zepp Health,201 to 500 Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,Na,Seattle,WA,7,2.5,1,0,85000.0,150000.0,117500.0,115,500,-1,0,0,0,0,0,1
-Machine Learning,Na,Zepp Health,Na,Na,Na,Na,Na,Seattle,WA,-1,2.5,1,0,85000.0,150000.0,117500.0,115,-1,-1,0,0,0,0,0,1
-Data Analyist,Na,AccruePartners,Na,Na,Na,Na,Na,New York,NY,-1,2.4,1,0,85000.0,150000.0,117500.0,62,-1,-1,0,0,0,0,1,0
-Data Engineer,Na,Strategic Staffing Solutions,1001 to 5000 Employees,Contract,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),Minneapolis,MN,31,3.5,1,0,85000.0,150000.0,117500.0,88,5000,500000000,0,0,0,0,0,0
-Data Analyist,Junior,WellSpace Health,51 to 200 Employees,Nonprofit Organization,Na,Na,$10 to $25 million (USD),Sacramento,CA,-1,2.9,1,0,85000.0,150000.0,117500.0,102,200,25000000,0,0,0,0,0,0
-Data Engineer,Senior,"AWM Smart Shelf (Adroit Worldwide Media, Inc.)",Na,Na,Na,Na,Na,Aliso Viejo,CA,-1,4.0,1,0,85000.0,150000.0,117500.0,91,-1,-1,0,0,0,0,0,1
-Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,111,10000,10000000000,0,0,0,0,0,0
-Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,120,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Jose,CA,119,3.8,1,0,85000.0,150000.0,117500.0,153,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,National Interstate,501 to 1000 Employees,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),Richfield,OH,32,4.1,1,0,85000.0,150000.0,117500.0,149,1000,1000000000,0,0,0,0,0,0
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,100,10000,10000000000,0,0,0,0,0,1
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Diego,CA,45,4.3,1,0,85000.0,150000.0,117500.0,118,10000,10000000000,1,1,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,173,10000,10000000000,0,0,0,0,0,1
-Na,Na,OneMain Financial,5001 to 10000 Employees,Company - Public,Lending,Finance,Na,Wilmington,DE,109,3.5,1,0,85000.0,150000.0,117500.0,155,10000,-1,0,0,0,0,0,1
-Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,194,10000,10000000000,0,0,0,0,0,1
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,115,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Junior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,100,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,163,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,Hyphen,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,85000.0,150000.0,117500.0,119,-1,-1,1,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,80,10000,10000000000,0,1,0,0,1,0
-Data Analyist,Senior,Performance Foodservice,1 to 50 Employees,Subsidiary or Business Segment,Wholesale,Business Services,Na,La Crosse,WI,-1,2.5,1,0,85000.0,150000.0,117500.0,194,50,-1,0,0,0,0,0,0
-Data Scientist,Na,Two Barrels,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Spokane,WA,11,4.7,1,0,85000.0,150000.0,117500.0,120,50,-1,0,0,1,0,0,0
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,103,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,126,10000,10000000000,0,0,0,0,0,1
-Data Analyist,Na,Kforce,10000+ Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),Frisco,TX,55,4.1,1,0,85000.0,150000.0,117500.0,130,10000,2000000000,0,0,1,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,109,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,100,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,161,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,85000.0,150000.0,117500.0,91,10000,10000000000,0,1,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,120,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,122,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Intuit - Data,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),New York,NY,38,4.4,1,0,93000.0,186000.0,139500.0,88,10000,5000000000,1,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,108,10000,10000000000,0,0,1,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,161,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,103,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Na,"CGI Group, Inc.",10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Fairfax,VA,45,3.8,1,0,93000.0,186000.0,139500.0,528,10000,10000000000,1,1,0,0,0,0
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,112,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,93000.0,186000.0,139500.0,193,5000,-1,0,0,0,0,0,0
-Data Analyist,Na,Lidl US,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Arlington,VA,27,3.6,1,0,93000.0,186000.0,139500.0,71,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,123,10000,10000000000,0,0,1,0,0,1
-Data Scientist,Junior,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,93000.0,186000.0,139500.0,136,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,"FourthWall Media, Inc.",201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Sterling,VA,23,3.5,1,0,93000.0,186000.0,139500.0,114,500,-1,0,0,0,0,1,1
-Data Engineer,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Hartford,CT,168,4.0,1,0,93000.0,186000.0,139500.0,160,10000,10000000000,1,0,0,0,0,0
-Data Scientist,Mid,Parsons,10000+ Employees,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),Dahlgren,VA,77,3.9,1,0,93000.0,186000.0,139500.0,169,10000,5000000000,1,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,93000.0,186000.0,139500.0,149,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),North Chicago,IL,75,3.5,1,0,93000.0,186000.0,139500.0,94,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Mid,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,93000.0,186000.0,139500.0,120,-1,-1,1,0,0,0,0,0
-Data Scientist,Na,Hill's Pet Nutrition,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),Seattle,WA,114,4.1,1,0,93000.0,186000.0,139500.0,143,5000,5000000000,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Santa Clara,CA,45,4.3,1,0,93000.0,186000.0,139500.0,152,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,1,0,93000.0,186000.0,139500.0,212,200,-1,0,1,1,1,0,0
-Data Scientist,Senior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,93000.0,186000.0,139500.0,143,10000,10000000000,1,0,0,0,0,0
-Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Whippany,NJ,75,3.5,1,0,93000.0,186000.0,139500.0,79,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Na,CloudMedx,Na,Na,Na,Na,Na,Palo Alto,CA,-1,4.0,1,0,93000.0,186000.0,139500.0,149,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Francisco,CA,45,4.3,1,0,93000.0,186000.0,139500.0,176,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Junior,BTAS,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),Hampton,VA,26,3.8,1,0,93000.0,186000.0,139500.0,205,500,25000000,0,0,0,0,0,0
-Data Scientist,Na,Epsilon,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),Chicago,IL,52,3.7,1,0,93000.0,186000.0,139500.0,140,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,93000.0,186000.0,139500.0,118,-1,-1,0,1,1,0,1,0
-Na,Na,Daley and Associates,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,16,3.8,1,0,93000.0,186000.0,139500.0,104,50,25000000,0,0,0,0,0,1
-Data Scientist,Na,Creative Financial Staffing,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Hartford,CT,27,4.6,1,0,93000.0,186000.0,139500.0,117,500,100000000,1,0,1,0,0,1
-Data Scientist,Na,Intuit - Data,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),New York,NY,38,4.4,1,0,98000.0,187000.0,142500.0,88,10000,5000000000,1,0,0,0,0,0
-Data Scientist,Na,Intuit - Data,Na,Na,Na,Na,Na,New York,NY,-1,4.4,1,0,98000.0,187000.0,142500.0,88,-1,-1,1,0,0,0,0,0
-Data Engineer,Na,Apple,Na,Na,Na,Na,Na,Seattle,WA,-1,4.3,1,0,98000.0,187000.0,142500.0,103,-1,-1,0,0,0,0,0,0
-Data Analyist,Na,Infinity Apparel Group,Na,Na,Na,Na,Na,Miami,FL,-1,4.0,1,0,98000.0,187000.0,142500.0,61,-1,-1,0,0,0,0,1,0
-Data Analyist,Na,"CGI Group, Inc.",10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Fairfax,VA,45,3.8,1,0,98000.0,187000.0,142500.0,528,10000,10000000000,1,1,0,0,0,0
-Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,98000.0,187000.0,142500.0,112,10000,10000000000,0,0,0,0,0,1
-Data Analyist,Na,LaborNow,Na,Company - Public,Na,Na,Na,Oxnard,CA,-1,1.0,1,0,98000.0,187000.0,142500.0,81,-1,-1,0,0,0,0,1,0
-Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,98000.0,187000.0,142500.0,193,5000,-1,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,98000.0,187000.0,142500.0,123,10000,10000000000,0,0,1,0,0,1
-Data Analyist,Na,Lidl US,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Arlington,VA,27,3.6,1,0,98000.0,187000.0,142500.0,71,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Senior,Northwest Federal Credit Union,501 to 1000 Employees,Company - Private,Banks & Credit Unions,Finance,$25 to $50 million (USD),Herndon,VA,74,3.4,1,0,98000.0,187000.0,142500.0,174,1000,50000000,0,0,0,0,1,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Diego,CA,45,4.3,1,0,98000.0,187000.0,142500.0,174,10000,10000000000,0,0,0,0,0,0
-Data Analyist,Na,Bon Secours Mercy Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),Cincinnati,OH,3,3.4,1,0,98000.0,187000.0,142500.0,106,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,98000.0,187000.0,142500.0,123,10000,10000000000,0,0,1,0,0,0
-Data Analyist,Na,Internal Data Resources,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Smyrna,GA,23,4.3,1,0,98000.0,187000.0,142500.0,99,500,100000000,0,0,0,0,0,0
-Data Scientist,Junior,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,98000.0,187000.0,142500.0,136,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,98000.0,187000.0,142500.0,125,10000,10000000000,0,0,1,0,0,0
-Data Scientist,Na,Lorien,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Atlanta,GA,23,3.5,1,0,98000.0,187000.0,142500.0,114,500,-1,0,0,0,0,1,1
-Data Engineer,Senior,AE Business Solutions,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),Madison,WI,72,4.0,1,0,98000.0,187000.0,142500.0,183,200,50000000,0,0,0,0,0,0
-Data Engineer,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Hartford,CT,168,4.0,1,0,98000.0,187000.0,142500.0,160,10000,10000000000,1,0,0,0,0,0
-Data Analyist,Senior,CDK Global,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Hoffman Estates,IL,7,3.5,1,0,98000.0,187000.0,142500.0,122,10000,5000000000,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,98000.0,187000.0,142500.0,149,10000,10000000000,0,0,0,0,0,1
-Na,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Paul,MN,168,4.0,1,0,98000.0,187000.0,142500.0,183,10000,10000000000,0,0,0,0,0,0
-Manager,Executive,Alpha Consulting,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),Cambridge,MA,27,4.5,1,0,98000.0,187000.0,142500.0,72,500,25000000,0,0,0,0,0,0
-Data Analyist,Na,MassMutual,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Boston,MA,170,3.9,1,0,98000.0,187000.0,142500.0,629,10000,10000000000,1,0,0,0,1,0
-Data Analyist,Na,Putnam Investments,1001 to 5000 Employees,Subsidiary or Business Segment,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),Boston,MA,84,3.8,1,0,98000.0,187000.0,142500.0,150,5000,500000000,0,0,0,0,0,0
-Data Engineer,Na,AccruePartners,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Charlotte,NC,19,2.4,1,0,98000.0,187000.0,142500.0,75,200,50000000,0,0,0,0,0,0
-Data Scientist,Mid,Parsons,10000+ Employees,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),Dahlgren,VA,77,3.9,1,0,98000.0,187000.0,142500.0,169,10000,5000000000,1,0,0,0,0,0
-Na,Senior,Medical Search Associates,Na,Company - Public,Na,Na,Na,Gratiot,OH,-1,4.0,1,0,98000.0,187000.0,142500.0,633,-1,-1,0,0,0,0,1,0
-Data Scientist,Mid,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,98000.0,187000.0,142500.0,120,-1,-1,1,0,0,0,0,0
-Data Analyist,Senior,Home Care Assistance,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Phoenix,AZ,18,3.8,1,0,54000.0,109000.0,81500.0,170,10000,500000000,0,0,0,0,1,0
-Data Scientist,Senior,Selby Jennings,201 to 500 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),Dallas,TX,17,3.4,1,0,54000.0,109000.0,81500.0,93,500,25000000,0,1,1,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Santa Clara,CA,45,4.3,1,0,54000.0,109000.0,81500.0,152,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Hill's Pet Nutrition,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),Seattle,WA,114,4.1,1,0,54000.0,109000.0,81500.0,14,5000,5000000000,0,0,0,0,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,54000.0,109000.0,81500.0,201,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,54000.0,109000.0,81500.0,143,10000,10000000000,1,0,0,0,0,0
-Data Engineer,Na,Cenlar FSB,1001 to 5000 Employees,Company - Private,Na,Na,$100 to $500 million (USD),Ewing,NJ,63,3.2,1,0,54000.0,109000.0,81500.0,149,5000,500000000,0,0,0,0,0,0
-Data Engineer,Executive,Spokeo,201 to 500 Employees,Company - Private,Internet,Information Technology,Na,Pasadena,CA,15,4.0,1,0,54000.0,109000.0,81500.0,133,500,-1,0,0,0,0,0,0
-Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,1,0,54000.0,109000.0,81500.0,212,200,-1,0,1,1,1,0,0
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,54000.0,109000.0,81500.0,92,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Morgan Hunter,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Kansas City,MO,35,4.4,1,0,54000.0,109000.0,81500.0,110,50,-1,0,1,0,0,0,0
-Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Whippany,NJ,75,3.5,1,0,54000.0,109000.0,81500.0,79,10000,10000000000,0,0,0,0,0,0
-Data Engineer,Na,CloudMedx,Na,Na,Na,Na,Na,Palo Alto,CA,-1,4.0,1,0,54000.0,109000.0,81500.0,149,-1,-1,0,0,0,0,0,1
-Data Scientist,Junior,BTAS,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),Hampton,VA,26,3.8,1,0,54000.0,109000.0,81500.0,205,500,25000000,0,0,0,0,0,0
-Data Engineer,Na,Storm Global Analytics,Na,Na,Na,Na,Na,New York,NY,-1,4.0,1,0,54000.0,109000.0,81500.0,123,-1,-1,0,0,0,0,0,1
-Data Engineer,Senior,Bristol Myers Squibb,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Redwood City,CA,163,4.1,1,0,54000.0,109000.0,81500.0,140,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,54000.0,109000.0,81500.0,92,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Senior,Bridgestone Americas,10000+ Employees,Subsidiary or Business Segment,Industrial Manufacturing,Manufacturing,$10+ billion (USD),Nashville,TN,121,3.6,1,0,54000.0,109000.0,81500.0,188,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Francisco,CA,45,4.3,1,0,54000.0,109000.0,81500.0,176,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,54000.0,109000.0,81500.0,118,-1,-1,0,1,1,0,1,0
-Data Analyist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Austin,TX,75,3.5,1,0,54000.0,109000.0,81500.0,30,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Epsilon,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),Chicago,IL,52,3.7,1,0,54000.0,109000.0,81500.0,140,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,Elder Research Inc,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),Arlington,VA,26,4.3,1,0,54000.0,109000.0,81500.0,154,200,25000000,1,0,0,0,0,0
-Na,Na,Daley and Associates,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,16,3.8,1,0,54000.0,109000.0,81500.0,104,50,25000000,0,0,0,0,0,1
-Data Scientist,Na,HCL Technologies,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),Texas,TX,30,3.7,1,0,54000.0,109000.0,81500.0,115,10000,10000000000,0,1,1,0,0,1
-Data Scientist,Na,Creative Financial Staffing,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Hartford,CT,27,4.6,1,0,54000.0,109000.0,81500.0,117,500,100000000,1,0,1,0,0,1
-Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,54000.0,109000.0,81500.0,164,-1,-1,0,0,0,0,1,1
-Data Scientist,Senior,Electric Power Research Institute,Na,Company - Private,Na,Na,Na,Washington,DC,-1,4.0,1,0,54000.0,109000.0,81500.0,94,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Hilton Grand Vacations,5001 to 10000 Employees,Company - Public,"Hotels, Motels, & Resorts",Travel & Tourism,Na,Orlando,FL,29,3.9,1,0,54000.0,109000.0,81500.0,90,10000,-1,0,1,1,0,1,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,54000.0,109000.0,81500.0,203,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Hilton Grand Vacations,5001 to 10000 Employees,Company - Public,"Hotels, Motels, & Resorts",Travel & Tourism,Na,Orlando,FL,29,3.9,1,0,64000.0,131000.0,97500.0,90,10000,-1,0,1,1,0,1,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,64000.0,131000.0,97500.0,203,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Apple,Na,Na,Na,Na,Na,Austin,TX,-1,4.3,1,0,64000.0,131000.0,97500.0,203,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Culver City,CA,45,4.3,1,0,64000.0,131000.0,97500.0,125,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Cox Communications Inc,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Atlanta,GA,59,4.1,1,0,64000.0,131000.0,97500.0,27,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,64000.0,131000.0,97500.0,164,10000,10000000000,1,0,0,0,0,1
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,64000.0,131000.0,97500.0,150,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,64000.0,131000.0,97500.0,125,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,TEKsystems,1001 to 5000 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),Juno Beach,FL,38,3.8,1,0,64000.0,131000.0,97500.0,142,5000,5000000000,0,1,0,0,0,1
-Data Scientist,Na,Booz Allen Hamilton,10000+ Employees,Company - Public,Consulting,Business Services,$5 to $10 billion (USD),Atlanta,GA,107,4.2,1,0,64000.0,131000.0,97500.0,217,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,Insight Global,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),Atlanta,GA,20,3.9,1,0,64000.0,131000.0,97500.0,128,5000,5000000,1,0,0,0,0,1
-Data Scientist,Na,Verizon,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Roswell,GA,21,3.9,1,0,64000.0,131000.0,97500.0,182,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Culver City,CA,45,4.3,1,0,64000.0,131000.0,97500.0,184,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Safelite Group,10000+ Employees,Company - Private,Auto Repair & Maintenance,"Construction, Repair & Maintenance",$2 to $5 billion (USD),Columbus,OH,74,3.5,1,0,64000.0,131000.0,97500.0,120,10000,5000000000,1,0,0,0,0,0
-Data Scientist,Na,Genworth,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),Raleigh,NC,17,3.8,1,0,64000.0,131000.0,97500.0,512,5000,10000000000,0,0,0,0,1,0
-Data Scientist,Na,Alexander Technology Group,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Boston,MA,14,4.4,1,0,64000.0,131000.0,97500.0,77,200,50000000,0,0,0,0,0,0
-Data Scientist,Na,Verizon,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Martinsville,NJ,21,3.9,1,0,64000.0,131000.0,97500.0,499,10000,10000000000,1,0,0,0,1,0
-Data Scientist,Na,Onward Search,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Cary,NC,14,3.8,1,0,64000.0,131000.0,97500.0,385,200,100000000,1,1,1,1,1,1
-Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,64000.0,131000.0,97500.0,164,-1,-1,0,0,0,0,1,1
-Data Scientist,Na,Stellantis,10000+ Employees,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),Auburn Hills,MI,-1,3.7,1,0,64000.0,131000.0,97500.0,117,10000,10000000000,1,0,0,0,0,0
-Data Scientist,Na,Kapitus,201 to 500 Employees,Self-employed,Na,Na,Na,Maryland,MD,-1,3.2,1,0,64000.0,131000.0,97500.0,126,500,-1,0,0,0,0,0,0
-Data Engineer,Na,Trexin Consulting,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),Chicago,IL,16,4.0,1,0,64000.0,131000.0,97500.0,189,200,50000000,0,0,0,0,0,1
-Data Scientist,Na,Excelerated Analytics LLC,Na,Na,Na,Na,Na,Stafford,VA,-1,4.0,1,0,64000.0,131000.0,97500.0,132,-1,-1,1,0,0,0,0,0
-Data Scientist,Na,Skan,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,San Jose,CA,8,4.8,1,0,64000.0,131000.0,97500.0,64,50,-1,1,0,0,0,0,0
-Data Scientist,Na,PSG Global Solutions,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Irvine,CA,12,4.1,1,0,64000.0,131000.0,97500.0,83,5000,50000000,0,1,0,0,0,0
-Data Scientist,Na,CES Limited,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Woonsocket,RI,8,3.5,1,0,64000.0,131000.0,97500.0,81,200,10000000,0,0,0,0,1,0
-Data Scientist,Na,Northwell Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Lake Success,NY,24,4.1,1,0,64000.0,131000.0,97500.0,97,10000,10000000000,1,0,0,0,0,1
-Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,64000.0,131000.0,97500.0,121,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,ApTask India Private Limited,Na,Na,Na,Na,Na,Broomfield,CO,-1,4.0,1,0,64000.0,131000.0,97500.0,69,-1,-1,1,1,0,0,0,1
-Data Scientist,Na,#twiceasnice Recruiting,Na,Company - Public,Na,Na,Na,Washington,DC,-1,5.0,1,0,64000.0,131000.0,97500.0,161,-1,-1,0,0,0,0,0,0
-Machine Learning,Na,Ursus,1 to 50 Employees,Company - Private,IT Services,Information Technology,Na,Menlo Park,CA,6,4.4,1,0,100000.0,209000.0,154500.0,86,50,-1,0,0,0,0,0,1
-Data Scientist,Na,Northwell Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Lake Success,NY,24,4.1,1,0,100000.0,209000.0,154500.0,97,10000,10000000000,1,0,0,0,0,1
-Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,1,0,100000.0,209000.0,154500.0,391,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Hulu,1001 to 5000 Employees,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),New York,NY,14,3.9,1,0,100000.0,209000.0,154500.0,115,5000,2000000000,1,0,0,0,0,1
-Data Scientist,Na,Harnham,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Chicago,IL,15,3.9,1,0,100000.0,209000.0,154500.0,65,200,50000000,0,0,0,0,0,0
-Data Scientist,Na,Rhino New York,51 to 200 Employees,Company - Private,Insurance Carriers,Insurance,Na,Remote,NA,4,4.8,1,0,100000.0,209000.0,154500.0,163,200,-1,0,0,0,0,0,0
-Data Scientist,Junior,Cleveland Clinic,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Cleveland,OH,100,3.9,1,0,100000.0,209000.0,154500.0,76,10000,5000000000,0,0,0,0,0,1
-Data Scientist,Na,Waymo,Na,Company - Private,Computer Hardware & Software,Information Technology,Na,Mountain View,CA,12,4.0,1,0,100000.0,209000.0,154500.0,196,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Kagr Llc,1001 to 5000 Employees,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$1 to $2 billion (USD),Foxboro,MA,23,4.2,1,0,100000.0,209000.0,154500.0,141,5000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,Visa,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Foster City,CA,63,4.1,1,0,100000.0,209000.0,154500.0,190,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,"Grammarly, Inc.",201 to 500 Employees,Company - Private,Internet,Information Technology,Na,San Francisco,CA,12,5.0,1,0,100000.0,209000.0,154500.0,141,500,-1,0,0,0,0,0,0
-Data Scientist,Na,Duolingo,201 to 500 Employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),Pittsburgh,PA,10,4.6,1,0,100000.0,209000.0,154500.0,424,500,500000000,1,1,1,0,0,1
-Data Scientist,Na,4Insite,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Sacramento,CA,2,4.0,1,0,100000.0,209000.0,154500.0,89,50,-1,0,0,0,0,0,0
-Data Scientist,Na,NutaNXT Technologies,Na,Company - Private,Na,Na,Na,Santa Clara,CA,-1,4.0,1,0,100000.0,209000.0,154500.0,83,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,Density,1 to 50 Employees,Company - Private,Internet,Information Technology,Na,Remote,NA,7,4.7,1,0,100000.0,209000.0,154500.0,149,50,-1,0,0,0,0,0,0
-Data Scientist,Na,Texas Research International Inc,51 to 200 Employees,Company - Private,Research & Development,Business Services,Less than $1 million (USD),Austin,TX,-1,5.0,1,0,100000.0,209000.0,154500.0,85,200,1000000,1,0,0,0,1,0
-Data Scientist,Na,J.D. Power,1001 to 5000 Employees,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),California,CA,53,3.0,1,0,100000.0,209000.0,154500.0,716,5000,500000000,1,1,1,1,1,1
-Data Scientist,Na,Olive,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Remote,NA,9,4.1,1,0,100000.0,209000.0,154500.0,666,1000,-1,1,0,1,0,1,1
-Data Scientist,Na,Honey,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Boulder,CO,23,4.1,1,0,100000.0,209000.0,154500.0,233,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Modernize,51 to 200 Employees,Company - Private,Internet,Information Technology,Na,Texas,TX,16,4.1,1,0,100000.0,209000.0,154500.0,556,200,-1,1,1,1,0,0,1
-Data Scientist,Na,Zynga,1001 to 5000 Employees,Company - Public,Video Games,Media,$500 million to $1 billion (USD),Austin,TX,14,4.4,1,0,100000.0,209000.0,154500.0,331,5000,1000000000,0,0,0,0,0,1
-Data Scientist,Na,Workday,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),New York,NY,16,4.2,1,0,100000.0,209000.0,154500.0,162,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,"HealthCare, Inc.",51 to 200 Employees,Private Practice / Firm,Internet,Information Technology,Na,Remote,NA,7,4.6,1,0,100000.0,209000.0,154500.0,143,200,-1,0,0,0,0,0,1
-Data Scientist,Na,Shearman & Sterling LLP,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$500 million to $1 billion (USD),New York,NY,148,3.7,1,0,100000.0,209000.0,154500.0,132,5000,1000000000,0,0,0,0,0,0
-Data Scientist,Na,Luminant Generation Company LLC,1001 to 5000 Employees,Subsidiary or Business Segment,Utilities,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD),Irving,TX,-1,3.6,1,0,100000.0,209000.0,154500.0,127,5000,500000000,0,0,0,0,0,0
-Data Scientist,Na,Zensar Technologies,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),San Jose,CA,20,3.5,1,0,100000.0,209000.0,154500.0,165,10000,1000000000,0,0,0,0,0,0
-Data Scientist,Na,Spencer Stuart,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,65,4.0,1,0,100000.0,209000.0,154500.0,148,5000,25000000,0,0,0,0,0,0
-Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Washington,DC,17,4.3,1,0,100000.0,209000.0,154500.0,270,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Calendly,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Georgia,GA,8,4.1,1,0,100000.0,209000.0,154500.0,432,500,-1,1,0,1,1,0,1
-Data Scientist,Na,Southern New Hampshire University,10000+ Employees,College / University,Colleges & Universities,Education,Na,Manchester,NH,89,4.2,1,0,100000.0,209000.0,154500.0,174,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,Workday,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),New York,NY,16,4.2,1,0,91000.0,171000.0,131000.0,162,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Zynga,1001 to 5000 Employees,Company - Public,Video Games,Media,$500 million to $1 billion (USD),Austin,TX,14,4.4,1,0,91000.0,171000.0,131000.0,331,5000,1000000000,0,0,0,0,0,1
-Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Washington,DC,17,4.3,1,0,91000.0,171000.0,131000.0,270,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,"HealthCare, Inc.",51 to 200 Employees,Private Practice / Firm,Internet,Information Technology,Na,Remote,NA,7,4.6,1,0,91000.0,171000.0,131000.0,143,200,-1,0,0,0,0,0,1
-Data Scientist,Na,Olive,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Remote,NA,9,4.1,1,0,91000.0,171000.0,131000.0,553,1000,-1,1,1,1,0,0,1
-Data Scientist,Na,Shearman & Sterling LLP,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$500 million to $1 billion (USD),New York,NY,148,3.7,1,0,91000.0,171000.0,131000.0,132,5000,1000000000,0,0,0,0,0,0
-Data Scientist,Na,Zensar Technologies,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),San Jose,CA,20,3.5,1,0,91000.0,171000.0,131000.0,165,10000,1000000000,0,0,0,0,0,0
-Data Scientist,Na,Luminant Generation Company LLC,1001 to 5000 Employees,Subsidiary or Business Segment,Utilities,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD),Irving,TX,-1,3.6,1,0,91000.0,171000.0,131000.0,127,5000,500000000,0,0,0,0,0,0
-Data Scientist,Na,Southern New Hampshire University,10000+ Employees,College / University,Colleges & Universities,Education,Na,Manchester,NH,89,4.2,1,0,91000.0,171000.0,131000.0,174,10000,-1,0,0,0,0,0,0
-Data Scientist,Na,Spencer Stuart,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,65,4.0,1,0,91000.0,171000.0,131000.0,148,5000,25000000,0,0,0,0,0,0
-Data Scientist,Na,Ibotta,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Denver,CO,9,3.8,1,0,91000.0,171000.0,131000.0,825,1000,-1,1,1,1,0,1,1
-Data Scientist,Na,CyberCoders,201 to 500 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),Baltimore,MD,22,4.1,1,0,91000.0,171000.0,131000.0,122,500,500000000,0,0,0,0,0,0
-Data Scientist,Na,QuinStreet,501 to 1000 Employees,Company - Public,Advertising & Marketing,Business Services,$500 million to $1 billion (USD),Foster City,CA,22,3.9,1,0,91000.0,171000.0,131000.0,154,1000,1000000000,0,0,0,0,0,0
-Data Scientist,Na,Klaviyo,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Boston,MA,9,4.9,1,0,91000.0,171000.0,131000.0,649,1000,-1,1,0,0,0,0,1
-Data Scientist,Senior,Netflix,5001 to 10000 Employees,Company - Public,Internet,Information Technology,$5 to $10 billion (USD),Los Gatos,CA,24,4.2,1,0,91000.0,171000.0,131000.0,139,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,BitSight,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Boston,MA,10,4.0,1,0,91000.0,171000.0,131000.0,113,500,-1,0,0,0,0,0,0
-Data Scientist,Na,Berkley,1 to 50 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$25 to $50 million (USD),Chesterfield,MO,9,4.4,1,0,91000.0,171000.0,131000.0,151,50,50000000,0,1,0,0,0,0
-Data Scientist,Na,TransUnion,5001 to 10000 Employees,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),Chicago,IL,53,4.0,1,0,91000.0,171000.0,131000.0,173,10000,2000000000,0,0,0,0,0,0
-Data Scientist,Na,Snapchat,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Los Angeles,CA,10,4.2,1,0,91000.0,171000.0,131000.0,123,5000,-1,0,0,0,0,0,0
-Na,Na,Nauto,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Palo Alto,CA,6,4.1,1,0,91000.0,171000.0,131000.0,127,200,-1,0,0,0,0,0,1
-Data Scientist,Na,Ubisoft,10000+ Employees,Company - Public,Video Games,Media,$2 to $5 billion (USD),Cary,NC,35,3.9,1,0,91000.0,171000.0,131000.0,153,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Intone Networks,201 to 500 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),Remote,NA,-1,4.4,1,0,91000.0,171000.0,131000.0,252,500,25000000,0,1,0,0,1,1
-Data Scientist,Na,Kaiser Permanente,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Pasadena,CA,76,4.0,1,0,91000.0,171000.0,131000.0,240,10000,10000000000,0,0,0,0,1,0
-Data Scientist,Na,XIFIN,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),San Diego,CA,24,4.3,1,0,91000.0,171000.0,131000.0,164,500,100000000,0,0,0,0,0,0
-Data Scientist,Na,Jacobs,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$10+ billion (USD),San Francisco,CA,74,3.8,1,0,91000.0,171000.0,131000.0,282,10000,10000000000,0,0,0,1,0,0
-Data Scientist,Na,IBM,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Austin,TX,110,3.9,1,0,91000.0,171000.0,131000.0,767,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Na,DeepHealth,Na,Company - Private,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,91000.0,171000.0,131000.0,96,-1,-1,0,1,0,0,0,1
-Data Scientist,Na,Rhombus Power,Na,Company - Public,Na,Na,Na,Mountain View,CA,-1,4.0,1,0,91000.0,171000.0,131000.0,490,-1,-1,1,0,1,1,1,1
-Data Scientist,Na,Halo Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,48400.0,58500.0,53400.0,74,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,120000.0,120000.0,121,-1,-1,0,0,0,0,0,1
-Director,Executive,Charles Schwab,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree,CO,48,3.9,0,0,149000.0,250000.0,199500.0,163,10000,10000000000,0,0,0,0,0,1
-Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,48400.0,96800.0,72600.0,151,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,53000.0,146000.0,99500.0,48,10000,-1,1,0,0,0,0,0
-Data Scientist,Na,LineSlip Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,149000.0,217000.0,183000.0,104,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,TWO NIL,1 to 50 Employees,Company - Private,Advertising & Marketing,Business Services,Na,California,CA,2,2.9,0,0,149000.0,217000.0,183000.0,517,50,-1,1,1,1,0,1,1
-Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,149000.0,217000.0,183000.0,80,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,Illumina,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),San Diego,CA,23,4.1,0,0,149000.0,217000.0,183000.0,267,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,149000.0,217000.0,183000.0,164,-1,-1,0,0,0,0,1,1
-Data Scientist,Na,Calendly,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Georgia,GA,8,4.1,0,0,149000.0,217000.0,183000.0,432,500,-1,1,0,1,1,0,1
-Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,149000.0,217000.0,183000.0,151,-1,-1,0,0,0,0,0,1
-Data Scientist,Na,AstraZeneca,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Gaithersburg,MD,108,4.2,0,0,149000.0,217000.0,183000.0,92,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Junior,HEB,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Spring,TX,116,4.3,0,0,149000.0,217000.0,183000.0,394,10000,10000000000,1,1,1,0,0,1
-Data Scientist,Na,TCS,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,Na,Raritan,NJ,74,4.0,0,0,149000.0,217000.0,183000.0,57,50,-1,0,1,0,0,0,0
-Data Scientist,Na,TCS,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Raritan,NJ,110,3.9,0,0,149000.0,217000.0,183000.0,57,10000,10000000000,0,1,0,0,0,0
-Data Scientist,Na,Stanford Health Care,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Palo Alto,CA,64,3.9,0,0,149000.0,217000.0,183000.0,143,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Siemens,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),Tarrytown,NY,178,4.1,0,0,149000.0,217000.0,183000.0,162,10000,10000000000,0,0,0,0,0,1
-Data Engineer,Junior,Technica Corporation,201 to 500 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),Sterling,VA,30,3.4,0,0,149000.0,217000.0,183000.0,152,500,500000000,0,0,0,0,0,0
-Data Engineer,Junior,Google,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Goleta,CA,23,4.5,0,0,149000.0,217000.0,183000.0,135,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Sun Oak,1 to 50 Employees,Company - Private,Consulting,Business Services,Na,Miami,FL,3,4.0,0,0,149000.0,217000.0,183000.0,211,50,-1,0,0,0,0,0,0
-Data Scientist,Senior,Deck,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,3.6,0,0,149000.0,217000.0,183000.0,69,200,-1,0,0,0,0,0,0
-Data Scientist,Na,Lakeland Book Company,Na,Na,Na,Na,Na,Bolingbrook,IL,-1,4.0,0,0,149000.0,217000.0,183000.0,125,-1,-1,1,0,0,0,0,1
-Data Scientist,Na,Darkblade Systems Corporation,51 to 200 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),McLean,VA,11,4.8,0,0,149000.0,217000.0,183000.0,39,200,25000000,0,0,0,0,0,0
-Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,149000.0,217000.0,183000.0,908,200,-1,1,1,0,0,0,1
-Data Engineer,Na,Cisco Systems,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Jose,CA,37,4.3,0,0,149000.0,217000.0,183000.0,702,10000,10000000000,1,1,1,0,1,1
-Data Scientist,Na,eBay Inc.,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,26,4.0,0,0,149000.0,217000.0,183000.0,121,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,Nuvento systems,51 to 200 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Overland Park,KS,14,3.7,0,0,149000.0,217000.0,183000.0,30,200,100000000,0,0,1,0,1,0
-Data Engineer,Na,HP,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Spring,TX,82,4.2,0,0,149000.0,217000.0,183000.0,110,10000,-1,1,0,0,0,0,0
-Data Scientist,Na,"giftHEALTH, Inc.",1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Columbus,OH,1,4.0,0,0,149000.0,217000.0,183000.0,88,50,-1,0,0,0,0,0,0
-Na,Na,McKinsey & Company,10000+ Employees,Company - Private,Consulting,Business Services,Na,East Boston,MA,95,4.4,0,0,149000.0,217000.0,183000.0,74,10000,-1,1,1,1,0,0,1
-Data Scientist,Na,Yeoman Asset Management,Na,Na,Na,Na,Na,Louisville,CO,-1,4.0,0,0,149000.0,217000.0,183000.0,170,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Salesforce,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Remote,NA,22,4.4,0,0,142000.0,142000.0,142000.0,185,10000,10000000000,0,0,0,0,1,1
-Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,142000.0,142000.0,142000.0,908,200,-1,1,1,0,0,0,1
-Data Scientist,Senior,Envision,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,Na,Saint Louis,MO,-1,4.0,0,0,142000.0,142000.0,142000.0,75,200,-1,1,1,0,0,0,1
-Data Scientist,Na,Delaware Nation Industries,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,142000.0,142000.0,142000.0,77,-1,-1,0,0,0,0,0,0
-Data Scientist,Senior,Slack,1001 to 5000 Employees,Company - Public,Internet,Information Technology,Na,San Francisco,CA,7,4.7,0,0,142000.0,142000.0,142000.0,437,5000,-1,1,1,1,0,0,1
-Data Scientist,Mid,ZoomInfo Technologies LLC,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Vancouver,WA,21,4.0,0,0,142000.0,142000.0,142000.0,281,5000,-1,1,1,1,1,1,1
-Data Scientist,Senior,Eagle Rock Analytics,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,142000.0,142000.0,142000.0,147,-1,-1,0,0,0,0,0,0
-Data Scientist,Mid,Caterpillar,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),Houston,TX,96,3.9,0,0,142000.0,142000.0,142000.0,136,10000,10000000000,1,0,0,0,0,0
-Data Scientist,Na,FriendFinder Networks,201 to 500 Employees,Company - Private,Internet,Information Technology,$25 to $50 million (USD),Campbell,CA,25,2.9,0,0,142000.0,142000.0,142000.0,124,500,50000000,0,0,0,0,0,0
-Data Scientist,Executive,New York University,10000+ Employees,College / University,Colleges & Universities,Education,$5 to $10 billion (USD),New York,NY,190,4.3,0,0,142000.0,142000.0,142000.0,75,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Na,James River Insurance Company,501 to 1000 Employees,Company - Public,Insurance Carriers,Insurance,$100 to $500 million (USD),Remote,NA,19,3.1,0,0,142000.0,142000.0,142000.0,166,1000,500000000,0,0,0,0,0,0
-Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,142000.0,142000.0,142000.0,80,-1,-1,0,0,0,0,0,0
-Data Scientist,Na,23andMe,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Sunnyvale,CA,15,4.1,0,0,142000.0,142000.0,142000.0,457,1000,-1,0,0,1,1,0,0
-Na,Na,Massive Bio,1 to 50 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Remote,NA,7,4.7,0,0,142000.0,142000.0,142000.0,57,50,-1,0,0,0,0,0,1
-Data Scientist,Na,ALLDATA,501 to 1000 Employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),Elk Grove,CA,35,4.0,0,0,142000.0,142000.0,142000.0,136,1000,100000000,0,0,0,0,0,0
-Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,109000.0,173000.0,141000.0,34,10000,-1,0,0,0,0,0,0
-Data Scientist,Senior,Attunely,Na,Na,Na,Na,Na,Seattle,WA,-1,4.0,0,0,180000.0,180000.0,180000.0,124,-1,-1,0,0,0,0,0,1
-Data Scientist,Senior,Microsoft,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Redmond,WA,46,4.4,0,0,149000.0,217000.0,183000.0,166,10000,10000000000,0,0,0,0,1,0
-Data Scientist,Mid,Humana,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Irving,TX,60,4.1,0,0,149000.0,217000.0,183000.0,112,10000,10000000000,1,0,0,0,0,0
-Data Scientist,Na,Atruz Solutions,Na,Na,Na,Na,Na,San Diego,CA,-1,4.0,0,0,149000.0,217000.0,183000.0,89,-1,-1,0,0,0,0,0,1
-Data Scientist,Senior,Salesforce,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Remote,NA,22,4.4,0,0,149000.0,217000.0,183000.0,185,10000,10000000000,0,0,0,0,1,1
-Data Scientist,Senior,Albertsons Companies,10000+ Employees,Company - Public,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Pleasanton,CA,82,3.4,0,0,149000.0,217000.0,183000.0,153,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Junior,"Advanced Micro Devices, Inc.",5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Austin,TX,52,4.1,0,0,149000.0,217000.0,183000.0,123,10000,5000000000,0,0,0,0,0,0
-Data Scientist,Na,Deliverr Inc,51 to 200 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Na,California,CA,4,4.7,0,0,149000.0,217000.0,183000.0,364,200,-1,1,1,1,1,0,1
-Data Scientist,Senior,Paylocity,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),Remote,NA,24,4.4,0,0,149000.0,217000.0,183000.0,113,5000,500000000,0,0,0,0,0,0
-Data Scientist,Na,Orchard,51 to 200 Employees,Company - Private,Real Estate,Real Estate,Na,New York,NY,4,4.8,0,0,149000.0,217000.0,183000.0,689,200,-1,1,0,1,0,1,1
-Director,Executive,Arizona State University,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),Tempe,AZ,136,4.3,0,0,149000.0,217000.0,183000.0,152,10000,2000000000,0,0,0,0,1,0
-Data Engineer,Na,Raytheon Intelligence & Space,10000+ Employees,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Dallas,TX,1,3.9,0,0,149000.0,217000.0,183000.0,30,10000,10000000000,0,0,0,0,0,0
-Data Scientist,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),United States,NA,45,4.3,0,0,149000.0,217000.0,183000.0,147,10000,10000000000,0,0,0,0,0,1
-Data Scientist,Senior,Slack,1001 to 5000 Employees,Company - Public,Internet,Information Technology,Na,San Francisco,CA,7,4.7,0,0,149000.0,217000.0,183000.0,437,5000,-1,1,1,1,0,0,1
-Data Scientist,Na,Amsted Rail,1001 to 5000 Employees,Company - Private,Rail,Transportation & Logistics,$500 million to $1 billion (USD),Petersburg,VA,-1,3.4,0,0,149000.0,217000.0,183000.0,88,5000,1000000000,0,0,0,0,0,1
-Data Scientist,Na,Metagenomi,1 to 50 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Emeryville,CA,3,5.0,0,0,149000.0,217000.0,183000.0,93,50,-1,0,0,0,0,0,0
-Data Scientist,Mid,Humana,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Irving,TX,60,4.1,0,0,150000.0,165000.0,157500.0,112,10000,10000000000,1,0,0,0,0,0
+vaga_simplificada,senioridade,nome_empresa,tamanho,tipo_propriedade,industria,setor,receita,cidade,estado,idade_empresa,nota,fg_glassdor_est,fg_por_hora,salario_medio,descricao_qtd_palavras,tamanho_num,receita_num,estatistica,programacao,etl,saas,ferramentas_bi,ml_ai
+Manager,Executive,Pathways,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,Na,Richardson,TX,-1,3.1,1,0,83500.0,178,10000,-1,0,0,0,0,0,0
+Data Scientist,Senior,Dealerware,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,5,4.0,1,0,100500.0,244,200,-1,1,0,0,0,0,1
+Data Analyist,Na,"NaphCare, Inc.",501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Birmingham,AL,-1,3.2,1,0,64500.0,121,1000,100000000,0,1,0,0,0,0
+Data Scientist,Junior,The Lauridsen Group,501 to 1000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,Na,Ankeny,IA,52,3.1,1,0,107500.0,72,1000,-1,0,0,0,0,0,0
+Data Scientist,Na,White Plains Hospital,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),White Plains,NY,128,3.9,1,0,73500.0,55,5000,500000000,0,0,0,0,0,0
+Data Engineer,Na,Covenant Physician Partners,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Nashville,TN,13,4.0,1,0,88000.0,97,5000,500000000,0,0,1,0,0,0
+Data Scientist,Senior,IsoPlexis,1 to 50 Employees,Company - Private,Na,Na,Less than $1 million (USD),Branford,CT,-1,3.6,1,0,122000.0,186,50,1000000,0,0,0,0,0,0
+Data Scientist,Senior,Katahdin Analytical Services,1 to 50 Employees,Company - Private,Na,Na,$5 to $10 million (USD),Scarborough,ME,-1,2.7,1,0,70000.0,109,50,10000000,0,0,0,0,1,0
+Data Scientist,Senior,Denison Pharmaceuticals,51 to 200 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$50 to $100 million (USD),Lincoln,RI,-1,2.8,1,0,79500.0,76,200,100000000,0,0,0,0,0,0
+Data Analyist,Na,Gundersen - La Crosse Main Campus,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),La Crosse,WI,130,3.8,1,0,82000.0,44,10000,500000000,0,0,0,0,0,0
+Data Analyist,Na,Progress Rail Services Corp.,5001 to 10000 Employees,Subsidiary or Business Segment,Rail,Transportation & Logistics,$2 to $5 billion (USD),La Grange,IL,38,3.5,1,0,82500.0,193,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Charles Schwab,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Austin,TX,48,3.9,0,0,133000.0,85,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,141000.0,33,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,veritis group inc,Na,Na,Na,Na,Na,Irving,TX,-1,4.0,0,1,122000.0,86,-1,-1,1,0,0,0,0,1
+Data Scientist,Na,Eden Technologies,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Remote,NA,-1,3.4,0,1,155200.0,95,200,10000000,1,0,0,0,0,0
+Data Scientist,Junior,KesarWeb,Na,Na,Na,Na,Na,Point a la Hache,LA,-1,4.0,0,0,81500.0,57,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,0,1,165300.0,212,200,-1,0,1,1,1,0,0
+Data Scientist,Na,Home Lending Pal,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,133,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,San Diego,CA,61,4.3,0,0,86500.0,32,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,117500.0,118,-1,-1,0,1,1,0,1,0
+Data Scientist,Na,"Custom Software Systems, Inc.",1 to 50 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),Washington,DC,31,4.5,0,0,95000.0,104,50,5000000,0,0,0,0,0,0
+Data Scientist,Na,Clark County Education Association,Na,Na,Na,Na,Na,Las Vegas,NV,-1,4.0,0,1,38300.0,143,-1,-1,1,0,0,0,0,0
+Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco,CA,17,4.3,0,0,183000.0,196,10000,5000000000,0,0,0,0,0,1
+Data Scientist,Na,Liberty Mutual Insurance,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,NA,109,3.8,0,0,112000.0,184,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,AR systems inc,Na,Na,Na,Na,Na,West Warwick,RI,-1,4.0,0,0,110000.0,197,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,UVA Medical Center,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),Greenfields,VA,196,3.4,0,0,105500.0,244,10000,5000000,1,0,0,0,0,0
+Data Scientist,Junior,Eagle Rock Analytics,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,60000.0,149,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Ibotta,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Denver,CO,9,3.8,0,0,105000.0,825,1000,-1,1,1,1,0,1,1
+Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Seattle,WA,17,4.3,0,0,183000.0,196,10000,5000000000,0,0,0,0,0,1
+Data Scientist,Na,Sound,501 to 1000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Tukwila,WA,55,3.2,0,0,183000.0,125,1000,100000000,1,0,0,0,1,1
+Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Burlingame,CA,17,4.3,0,0,183000.0,270,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Tech True Up,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,106800.0,50,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Prudent Technology,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),Remote,NA,-1,5.0,0,0,132500.0,175,50,5000000,0,0,0,1,0,0
+Data Scientist,Na,veritis group inc,Na,Na,Na,Na,Na,Irving,TX,-1,4.0,0,1,122000.0,91,-1,-1,1,0,0,0,0,1
+Data Scientist,Na,"Search Leaders, LLC",1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Minneapolis,MN,23,3.6,0,0,155000.0,138,50,-1,0,0,0,0,0,0
+Data Scientist,Na,SKAEL,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,San Francisco,CA,4,5.0,0,0,130000.0,155,200,-1,0,0,0,0,0,1
+Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Burlingame,CA,17,4.3,0,0,130000.0,270,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Junior,"Croptix, LLC",Na,Na,Na,Na,Na,State College,PA,-1,4.0,0,0,130000.0,221,-1,-1,0,0,0,0,0,1
+Data Scientist,Senior,omega solutions inc,1 to 50 Employees,Self-employed,IT Services,Information Technology,Na,Santa Ana,CA,-1,2.8,0,0,130000.0,95,50,-1,0,0,0,0,0,0
+Data Engineer,Na,"Certec Consulting, inc",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,50,-1,-1,0,1,0,0,0,1
+Data Analyist,Na,Unsupervised,1 to 50 Employees,Unknown,Na,Na,Na,Colorado,CO,-1,4.0,0,0,130000.0,505,50,-1,0,0,0,0,1,1
+Data Scientist,Na,Stanford Health Care,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Palo Alto,CA,64,3.9,0,0,130000.0,143,10000,5000000000,0,0,0,0,0,0
+Data Engineer,Na,IBM,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Yorktown Heights,NY,110,3.9,0,0,130000.0,774,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Junior,Google,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Goleta,CA,23,4.5,0,0,130000.0,135,10000,10000000000,0,0,0,0,0,0
+Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,151,-1,-1,0,0,0,0,0,1
+Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,0,0,130000.0,391,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,121,-1,-1,0,0,0,0,0,1
+Data Engineer,Na,Cisco Systems,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Jose,CA,37,4.3,0,0,130000.0,702,10000,10000000000,1,1,1,0,1,1
+Data Scientist,Na,Sun Oak,1 to 50 Employees,Company - Private,Consulting,Business Services,Na,Miami,FL,3,4.0,0,0,130000.0,211,50,-1,1,0,0,0,0,0
+Data Engineer,Na,Agile N2N Inc,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,68,-1,-1,1,0,0,0,0,1
+Na,Na,Insulet Corporation,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),Acton,MA,21,3.3,0,0,130000.0,108,5000,1000000000,0,0,0,0,1,0
+Data Scientist,Na,TWO NIL,1 to 50 Employees,Company - Private,Advertising & Marketing,Business Services,Na,California,CA,2,2.9,0,0,130000.0,517,50,-1,1,1,1,0,1,1
+Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Menlo Park,CA,17,4.3,0,0,130000.0,220,10000,10000000000,1,0,0,0,1,0
+Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,130000.0,908,200,-1,1,1,0,0,0,1
+Data Scientist,Junior,CALSTART,51 to 200 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),Pasadena,CA,-1,4.0,0,0,130000.0,149,200,50000000,0,0,0,0,0,0
+Data Scientist,Na,SparkCognition,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,8,4.3,0,0,130000.0,137,200,-1,0,0,1,0,0,1
+Na,Na,McKinsey & Company,10000+ Employees,Company - Private,Consulting,Business Services,Na,East Boston,MA,95,4.4,0,0,130000.0,74,10000,-1,1,1,1,0,0,1
+Data Scientist,Na,"CoEnterprise, LLC",51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),New York,NY,11,3.6,0,0,130000.0,156,200,50000000,0,0,0,0,1,0
+Data Scientist,Na,Abbvie,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Crystal Lake,IL,8,3.9,0,0,130000.0,240,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,Tekcogno,1 to 50 Employees,Unknown,Na,Na,Na,Austin,TX,-1,4.5,0,0,130000.0,85,50,-1,0,1,0,0,0,0
+Data Scientist,Junior,Barchart,51 to 200 Employees,Company - Private,Financial Analytics & Research,Finance,Na,Chicago,IL,-1,4.7,0,0,130000.0,68,200,-1,0,1,0,0,0,0
+Data Scientist,Senior,Talentica Software,Na,Na,Na,Na,Na,Malvern,PA,-1,4.0,0,0,130000.0,92,-1,-1,1,0,1,1,0,1
+Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,130000.0,80,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Amica Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,0,0,130000.0,60,5000,2000000000,1,0,0,0,0,0
+Data Scientist,Na,LineSlip Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,130000.0,104,-1,-1,0,0,0,0,0,0
+Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,0,0,183000.0,391,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,Spectrum,10000+ Employees,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Greenwood Village,CO,5,3.2,0,0,183000.0,152,10000,10000000000,1,0,0,0,0,1
+Data Scientist,Na,Siemens,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),Tarrytown,NY,178,4.1,0,0,183000.0,161,10000,10000000000,1,0,0,0,0,1
+Data Scientist,Na,Intelligent Automation,51 to 200 Employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),Rockville,MD,34,3.8,1,0,103500.0,125,200,50000000,0,0,0,0,0,1
+Data Scientist,Na,U.S. Customs and Border Protection,10000+ Employees,Government,Federal Agencies,Government,Na,Sterling,VA,94,4.0,1,0,85000.0,62,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,DEPARTMENT OF SANITATION,5001 to 10000 Employees,Government,Municipal Governments,Government,Na,New York,NY,-1,3.9,1,0,88500.0,45,10000,-1,0,0,0,0,0,0
+Data Analyist,Senior,Southworth Products Corp.,Na,Na,Na,Na,Na,Falmouth,ME,-1,4.0,1,0,64000.0,133,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,"SECANT GROUP, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,79000.0,125,200,-1,0,0,0,0,0,0
+Data Analyist,Na,Uline,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),Pleasant Prairie,WI,41,3.6,0,0,72000.0,81,10000,10000000000,0,0,0,0,1,0
+Data Analyist,Na,Uline,Na,Na,Na,Na,Na,Pleasant Prairie,WI,-1,3.6,0,0,72000.0,81,-1,-1,0,0,0,0,1,0
+Data Scientist,Na,Deaconess Health System,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),Princeton,IN,39,3.8,1,0,33000.0,59,10000,5000000,0,0,0,0,0,0
+Data Scientist,Mid,AMPAC Fine Chemicals,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),Rancho Cordova,CA,16,3.0,1,0,82000.0,89,1000,500000000,0,0,0,0,0,0
+Data Scientist,Na,AGC Biologics,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Bothell,WA,-1,3.7,1,0,82500.0,154,5000,-1,0,0,0,0,0,0
+Data Scientist,Na,Brigham and Women's Hospital (BWH),Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,78500.0,144,-1,-1,0,1,0,0,0,0
+Data Analyist,Na,Penn State Health Milton S. Hershey Medical Center,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,Na,Hershey,PA,-1,3.9,1,0,56000.0,89,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,"BioCheck, Inc.",Na,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),South San Francisco,CA,-1,1.0,1,0,95500.0,77,-1,10000000,0,0,0,0,0,0
+Data Scientist,Senior,"Secant Group, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,79000.0,130,200,-1,0,0,0,0,0,0
+Data Scientist,Senior,Translational Drug Development (TD2),Na,Na,Na,Na,Na,Scottsdale,AZ,-1,4.0,1,0,117000.0,80,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,United Therapeutics,501 to 1000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Research Triangle Park,NC,25,4.4,1,0,73000.0,105,1000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,United Therapeutics,Na,Na,Na,Na,Na,Research Triangle Park,NC,-1,4.4,1,0,73000.0,105,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,"SECANT GROUP, LLC",51 to 200 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,Na,Telford,PA,-1,2.7,1,0,79000.0,130,200,-1,0,0,0,0,0,0
+Data Scientist,Senior,Metalenz,Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,139500.0,117,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,"Catalog Technologies, Inc.",Na,Na,Na,Na,Na,Boston,MA,-1,4.0,1,0,69000.0,110,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Middleton,WI,36,4.0,1,0,64500.0,96,10000,2000000000,0,0,0,0,0,0
+Data Engineer,Na,NT Concepts,51 to 200 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Herndon,VA,23,3.8,1,0,104000.0,159,200,100000000,1,0,0,0,0,1
+Data Scientist,Na,Ambagon Therapeutics,Na,Na,Na,Na,Na,San Carlos,CA,-1,4.0,1,0,134500.0,140,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,140000.0,123,10000,10000000000,0,0,1,0,0,0
+Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,140000.0,184,5000,-1,0,0,0,0,0,0
+Data Scientist,Senior,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,California,CA,61,4.3,1,0,140000.0,118,10000,-1,0,0,0,0,1,0
+Data Scientist,Na,Fulgent Genetics,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Temple City,CA,-1,3.7,1,0,140000.0,130,200,-1,0,0,0,0,0,0
+Data Scientist,Na,"Inanovate, Inc",Na,Na,Na,Na,Na,Sioux Falls,SD,-1,4.0,1,0,140000.0,113,-1,-1,0,0,0,0,0,0
+Data Engineer,Na,Savant,201 to 500 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,Na,Cleveland,OH,16,3.2,1,0,140000.0,142,500,-1,0,0,0,0,0,0
+Data Engineer,Na,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Rosslyn,VA,171,3.9,1,0,140000.0,148,10000,10000000000,0,1,0,1,1,1
+Data Scientist,Mid,Cottage Health,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),Goleta,CA,133,4.5,1,0,140000.0,113,5000,1000000000,0,0,0,0,0,0
+Data Scientist,Mid,Cottage Health,Na,Na,Na,Na,Na,Goleta,CA,-1,4.5,1,0,140000.0,113,-1,-1,0,0,0,0,0,0
+Data Scientist,Junior,Thermo Fisher - America,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,140000.0,153,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Na,Visiting Nurse Association of Central Jersey,1001 to 5000 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),Holmdel,NJ,109,3.0,1,0,140000.0,286,5000,100000000,0,0,0,1,0,0
+Data Analyist,Na,Progress Rail Services Corp.,5001 to 10000 Employees,Subsidiary or Business Segment,Rail,Transportation & Logistics,$2 to $5 billion (USD),La Grange,IL,38,3.5,1,0,140000.0,193,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Senior,"Miltenyi Biomedicine, Inc.",Na,Na,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,140000.0,139,-1,-1,0,0,0,0,1,0
+Data Analyist,Na,GreatAmerica Financial Services,Na,Na,Na,Na,Na,Cedar Rapids,IA,-1,4.3,1,0,140000.0,137,-1,-1,0,0,0,0,0,0
+Data Engineer,Na,AmerisourceBergen,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Boise,ID,20,3.5,1,0,140000.0,168,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Junior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,140000.0,257,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Middleton,WI,36,4.0,1,0,140000.0,115,10000,2000000000,0,0,0,0,0,0
+Manager,Executive,Pathways,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,Na,Richardson,TX,-1,3.1,1,0,140000.0,178,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,LIFELINE CELL TECHNOLOGY,Na,Na,Na,Na,Na,Oceanside,CA,-1,4.0,1,0,140000.0,98,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,140000.0,229,10000,5000000000,0,0,0,0,1,1
+Data Engineer,Senior,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Washington,DC,171,3.9,1,0,140000.0,180,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Adventist Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Na,Tehachapi,CA,48,3.7,1,0,140000.0,132,10000,-1,0,0,0,0,0,0
+Data Engineer,Executive,Clarus Commerce,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Connecticut,CT,20,4.4,1,0,140000.0,446,200,-1,0,0,0,0,1,0
+Data Engineer,Na,IntraFi Network,201 to 500 Employees,Company - Private,Financial Transaction Processing,Finance,Na,Arlington,VA,19,4.9,1,0,140000.0,171,500,-1,0,0,0,0,0,0
+Data Scientist,Na,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Danbury,CT,55,3.8,1,0,140000.0,151,5000,2000000000,0,0,0,0,0,0
+Data Scientist,Senior,Ab Studio Inc.,Na,Na,Na,Na,Na,Hayward,CA,-1,4.0,1,0,140000.0,78,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Ambler,PA,55,3.8,1,0,140000.0,151,5000,2000000000,0,0,0,0,0,0
+Data Scientist,Senior,Just - Evotec Biologics,1 to 50 Employees,Company - Private,Na,Na,$1 to $5 million (USD),Redmond,WA,-1,4.8,1,0,140000.0,127,50,5000000,0,0,0,0,0,0
+Data Scientist,Senior,Just - Evotec Biologics,Na,Na,Na,Na,Na,Redmond,WA,-1,4.8,1,0,140000.0,127,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Flow Health,Na,Na,Na,Na,Na,Miami,FL,-1,4.2,1,0,140000.0,84,-1,-1,0,0,0,0,0,0
+Na,Senior,Accenture,Na,Na,Na,Na,Na,Cincinnati,OH,-1,4.0,1,0,140000.0,160,-1,-1,1,0,1,0,0,1
+Data Scientist,Na,TEKsystems,1001 to 5000 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),Juno Beach,FL,38,3.8,1,0,111500.0,142,5000,5000000000,0,1,0,0,0,1
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,111500.0,164,10000,10000000000,1,0,0,0,0,1
+Na,Senior,Accenture,10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Cincinnati,OH,32,4.0,1,0,111500.0,160,10000,10000000000,1,0,1,0,0,1
+Data Analyist,Na,GTL,1001 to 5000 Employees,Company - Private,Telecommunications Services,Telecommunications,$500 million to $1 billion (USD),Indianapolis,IN,32,3.1,1,0,111500.0,499,5000,1000000000,1,0,0,1,1,0
+Data Analyist,Na,General Dynamics,10000+ Employees,Subsidiary or Business Segment,IT Services,Information Technology,$2 to $5 billion (USD),Washington,DC,25,3.8,1,0,111500.0,154,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Providence,RI,36,4.0,1,0,111500.0,117,10000,2000000000,0,0,0,0,0,0
+Machine Learning,Na,"Physicians Laboratory Services, Inc",Na,Na,Na,Na,Na,Lincoln,NE,-1,4.0,1,0,111500.0,90,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Worcester,MA,36,4.0,1,0,111500.0,70,10000,2000000000,0,0,0,0,0,0
+Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Worcester,MA,36,4.0,1,0,111500.0,70,10000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,"Seneca Companies, Inc.",201 to 500 Employees,Company - Private,Construction,"Construction, Repair & Maintenance",$10 to $25 million (USD),Des Moines,IA,49,4.1,1,0,111500.0,132,500,25000000,0,0,0,0,0,0
+Data Engineer,Na,Verstand AI,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,111500.0,146,-1,-1,0,0,0,0,0,1
+Data Engineer,Senior,Eide Bailly,1001 to 5000 Employees,Company - Private,Accounting,Accounting & Legal,$100 to $500 million (USD),Fargo,ND,104,4.0,1,0,111500.0,491,5000,500000000,1,1,1,1,1,0
+Data Scientist,Na,Intelligent Automation,51 to 200 Employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),Rockville,MD,34,3.8,1,0,111500.0,125,200,50000000,0,0,0,0,0,1
+Manager,Executive,Fannie Mae,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Reston,VA,83,4.0,1,0,111500.0,134,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Senior,AmerisourceBergen,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Chesterbrook,PA,20,3.5,1,0,111500.0,186,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Burnet,TX,55,3.8,1,0,111500.0,151,5000,2000000000,0,0,0,0,0,0
+Data Scientist,Senior,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),North Chicago,IL,36,4.0,1,0,111500.0,122,10000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),New York,NY,17,4.3,1,0,111500.0,107,10000,5000000000,0,0,0,0,0,1
+Data Engineer,Na,Excelerated Analytics LLC,Na,Na,Na,Na,Na,Stafford,VA,-1,4.0,1,0,111500.0,86,-1,-1,1,0,0,0,0,0
+Data Scientist,Senior,"Cellics Therapeutics, Inc.",Na,Na,Na,Na,Na,San Diego,CA,-1,4.0,1,0,111500.0,110,-1,-1,0,0,0,0,1,0
+Data Scientist,Mid,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Worcester,MA,74,3.5,1,0,111500.0,97,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Mid,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Shrewsbury,MA,74,3.5,1,0,111500.0,112,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Senior,Conagen Inc.,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,New Bedford,MA,-1,2.9,1,0,111500.0,78,200,-1,0,0,0,0,0,0
+Data Scientist,Senior,Creative Radicals,Na,Na,Na,Na,Na,McLean,VA,-1,4.0,1,0,111500.0,89,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,"Phosphorex,Inc",Na,Na,Na,Na,Na,Hopkinton,MA,-1,4.0,1,0,111500.0,110,-1,-1,0,0,0,0,0,0
+Data Engineer,Senior,"TBK Bank, SSB",1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,Na,Coppell,TX,15,3.6,1,0,111500.0,169,5000,-1,0,0,0,0,0,0
+Data Engineer,Senior,Deloitte,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),Washington,DC,171,3.9,1,0,111500.0,181,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,PolyPeptide Group,Na,Na,Na,Na,Na,Torrance,CA,-1,4.0,1,0,111500.0,101,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,PPD,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Collegeville,PA,36,4.0,1,0,111500.0,229,10000,2000000000,0,0,0,0,0,0
+Data Engineer,Senior,Space Telescope Science Institute,501 to 1000 Employees,Company - Private,Colleges & Universities,Education,$25 to $50 million (USD),Baltimore,MD,40,3.7,1,0,111500.0,161,1000,50000000,0,0,0,0,0,0
+Data Engineer,Senior,Space Telescope Science Institute,Na,Na,Na,Na,Na,Baltimore,MD,-1,3.7,1,0,111500.0,161,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,DxTerity,Na,Na,Na,Na,Na,Rancho Dominguez,CA,-1,4.0,1,0,111500.0,95,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,CES Limited,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Woonsocket,RI,8,3.5,1,0,127500.0,81,200,10000000,0,0,0,0,1,0
+Data Engineer,Na,Trexin Consulting,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),Chicago,IL,16,4.0,1,0,127500.0,189,200,50000000,0,0,0,0,0,1
+Data Engineer,Senior,Excella,201 to 500 Employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),Arlington,VA,19,4.3,1,0,127500.0,120,500,100000000,0,0,0,0,1,0
+Data Scientist,Na,Charles River Laboratories,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Billerica,MA,74,3.5,1,0,127500.0,114,10000,5000000000,0,0,0,0,0,0
+Data Analyist,Senior,"Healthcare Retroactive Audits, Inc",Na,Na,Na,Na,Na,Doral,FL,-1,4.0,1,0,127500.0,81,-1,-1,0,0,1,0,1,0
+Data Scientist,Senior,"Silverback Therapeutics, Inc.",1 to 50 Employees,Company - Public,Na,Na,Na,Seattle,WA,-1,3.1,1,0,127500.0,123,50,-1,0,0,0,0,0,0
+Data Scientist,Senior,UC San Diego,10000+ Employees,College / University,Colleges & Universities,Education,Na,California,CA,61,4.3,1,0,127500.0,78,10000,-1,0,0,0,0,0,0
+Director,Senior,Fulgent Genetics,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Temple City,CA,-1,3.7,1,0,127500.0,121,200,-1,0,0,0,0,0,0
+Manager,Executive,Clarus Commerce,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Connecticut,CT,20,4.4,1,0,127500.0,268,200,-1,0,0,0,0,1,0
+Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Folsom,CA,22,4.3,1,0,127500.0,116,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Junior,Earth Engineering Inc.,51 to 200 Employees,Company - Private,Construction,"Construction, Repair & Maintenance",$5 to $10 million (USD),Emmaus,PA,31,3.1,1,0,127500.0,175,200,10000000,0,0,0,0,0,0
+Data Analyist,Senior,BankUnited,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),Miami Lakes,FL,12,3.1,1,0,127500.0,151,5000,10000000000,1,0,0,0,0,0
+Data Scientist,Senior,"BioCheck, Inc.",Na,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),South San Francisco,CA,-1,1.0,1,0,127500.0,95,-1,10000000,0,0,0,0,1,0
+Data Scientist,Senior,"Entegris, Inc.",1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),Burnet,TX,55,3.8,1,0,127500.0,151,5000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,Aridis Pharmaceuticals,Na,Na,Na,Na,Na,Los Gatos,CA,-1,4.0,1,0,127500.0,147,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,"Biomodels, LLC",Na,Na,Na,Na,Na,Waltham,MA,-1,4.0,1,0,127500.0,125,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Healthfirst,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,Na,New York,NY,28,3.5,1,0,127500.0,147,10000,-1,1,0,0,0,0,0
+Data Scientist,Senior,Riverain Technologies,Na,Na,Na,Na,Na,Miamisburg,OH,-1,4.0,1,0,127500.0,145,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,Abt Associates,1001 to 5000 Employees,Company - Private,Research & Development,Business Services,$500 million to $1 billion (USD),Rockville,MD,56,3.6,1,0,127500.0,163,5000,1000000000,0,0,0,0,0,0
+Data Analyist,Na,Doximity,201 to 500 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Na,New York State,NY,11,4.7,1,0,127500.0,581,500,-1,1,1,1,0,1,0
+Data Analyist,Na,Great American Life Insurance Company,501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,Na,Cincinnati,OH,29,4.0,1,0,127500.0,178,1000,-1,0,0,0,0,0,0
+Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),La Jolla,CA,22,4.3,1,0,127500.0,127,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,CDK Global,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Portland,OR,7,3.5,1,0,127500.0,119,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Predictive Health Diagnostics Co.,Na,Na,Na,Na,Na,Irvine,CA,-1,4.0,1,0,127500.0,77,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,"Silverback Therapeutics, Inc.",1 to 50 Employees,Company - Public,Na,Na,Na,Seattle,WA,-1,3.1,1,0,127500.0,116,50,-1,0,0,0,0,0,0
+Data Engineer,Na,"INNOVEX Environmental Management, Inc.",1 to 50 Employees,Company - Private,Na,Na,$1 to $5 million (USD),Redmond,WA,-1,4.0,1,0,127500.0,115,50,5000000,0,0,0,0,0,0
+Data Scientist,Na,Ronin Staffing LLC,Na,Na,Na,Na,Na,Thousand Oaks,CA,-1,4.0,1,0,127500.0,58,-1,-1,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,127500.0,104,10000,10000000000,0,0,0,0,0,1
+Data Analyist,Na,Bedrock Quartz,Na,Na,Na,Na,Na,West Jordan,UT,-1,4.0,1,0,127500.0,88,-1,-1,0,0,0,0,0,0
+Data Scientist,Executive,Catalyst Lab Solutions,1 to 50 Employees,Company - Private,Na,Na,Na,Philadelphia,PA,-1,4.0,1,0,127500.0,68,50,-1,0,0,0,0,0,0
+Data Engineer,Senior,Synbio Technologies LLC,Na,Na,Na,Na,Na,Princeton,NJ,-1,4.0,1,0,127500.0,113,-1,-1,0,0,0,0,0,0
+Data Engineer,Na,St. Luke's Hospital,1001 to 5000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),Chesterfield,MO,37,3.9,1,0,127500.0,179,5000,100000000,1,0,0,0,1,0
+Data Analyist,Na,New Mexico Mutual,51 to 200 Employees,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),New Mexico,NM,30,3.4,1,0,109500.0,71,200,500000000,0,0,0,0,0,0
+Data Scientist,Na,B4CORP,51 to 200 Employees,Company - Private,IT Services,Information Technology,Na,McLean,VA,-1,5.0,1,0,109500.0,66,200,-1,0,0,0,0,0,0
+Na,Na,Bloomberg,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,New York,NY,40,4.1,1,0,109500.0,177,10000,-1,1,0,0,0,1,0
+Data Scientist,Na,Cyient,10000+ Employees,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),Phoenix,AZ,30,3.3,1,0,109500.0,119,10000,500000000,1,0,0,0,0,1
+Data Engineer,Na,Doximity,201 to 500 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,Na,North Carolina,NC,11,4.7,1,0,109500.0,690,500,-1,0,1,1,1,0,1
+Na,Senior,ASR ANALYTICS LLC,1 to 50 Employees,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD),Phoenix,AZ,-1,4.1,1,0,109500.0,86,50,5000000,0,0,0,0,0,0
+Data Scientist,Senior,Active Motif Inc,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),Carlsbad,CA,-1,3.8,1,0,109500.0,11,200,25000000,0,0,0,0,0,0
+Data Scientist,Na,Comcast,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Philadelphia,PA,58,3.8,1,0,109500.0,970,10000,10000000000,1,1,1,0,0,1
+Data Scientist,Senior,WOOD Consulting Services,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),Annapolis Junction,MD,24,3.2,1,0,109500.0,117,200,25000000,0,0,0,0,0,0
+Data Scientist,Senior,Absorption Systems,51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Exton,PA,25,3.4,1,0,109500.0,124,200,-1,0,0,0,0,0,0
+Manager,Senior,Hologic,5001 to 10000 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),San Diego,CA,36,3.9,1,0,109500.0,127,10000,5000000000,0,0,0,1,0,0
+Data Scientist,Senior,Dealerware,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Austin,TX,5,4.0,1,0,109500.0,244,200,-1,1,0,0,0,0,1
+Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),Carpinteria,CA,22,4.3,1,0,109500.0,135,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Forward Greens,Na,Na,Na,Na,Na,Vancouver,WA,-1,4.0,1,0,109500.0,15,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,"Agilent Technologies, Inc.",10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),San Francisco,CA,22,4.3,1,0,109500.0,144,10000,5000000000,0,0,0,0,0,0
+Manager,Executive,"CircusTrix, LLC",1001 to 5000 Employees,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Na,Los Angeles,CA,-1,3.2,1,0,109500.0,142,5000,-1,0,0,0,0,0,0
+Data Scientist,Na,DSM,10000+ Employees,Company - Public,Chemical Manufacturing,Manufacturing,$5 to $10 billion (USD),Columbia,MD,-1,4.0,1,0,109500.0,123,10000,10000000000,0,0,0,0,0,0
+Data Analyist,Na,Reproductive Medicine Associates of New Jersey,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Basking Ridge,NJ,22,3.5,1,0,109500.0,112,5000,500000000,0,0,0,0,0,0
+Na,Na,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,109500.0,147,10000,5000000000,0,0,0,0,1,0
+Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Albany,OR,52,3.9,1,0,109500.0,213,10000,10000000000,0,0,0,0,0,0
+Na,Na,Transamerica,5001 to 10000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),Denver,CO,117,3.0,1,0,109500.0,106,10000,10000000000,0,1,0,1,0,0
+Data Scientist,Senior,Union Bank,5001 to 10000 Employees,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD),Irvine,CA,157,3.3,1,0,109500.0,111,10000,10000000000,0,0,0,0,0,0
+Data Analyist,Senior,"ENSCO, Inc.",501 to 1000 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),Fairfax,VA,52,4.1,1,0,109500.0,126,1000,500000000,0,0,0,0,0,0
+Data Scientist,Na,LACORE Nutraceuticals,51 to 200 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,McKinney,TX,-1,2.6,1,0,109500.0,129,200,-1,0,0,0,0,0,0
+Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Albany,OR,52,3.9,1,0,109500.0,183,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Memorial Sloan-Kettering Cancer Center,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),New York,NY,137,4.0,1,0,109500.0,255,10000,5000000000,1,0,0,0,1,0
+Data Scientist,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),San Diego,CA,52,3.9,1,0,109500.0,99,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Na,"Tyler Technologies, Inc.",1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$500 million to $1 billion (USD),Plano,TX,55,4.0,1,0,109500.0,235,5000,1000000000,0,0,1,0,0,0
+Data Analyist,Senior,Syneos Health Clinical,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Somerset,NJ,-1,3.7,1,0,109500.0,94,10000,-1,0,0,0,0,0,0
+Data Analyist,Senior,DealerPolicy,201 to 500 Employees,Unknown,Insurance Agencies & Brokerages,Insurance,Na,Williston,VT,6,4.0,1,0,109500.0,456,500,-1,0,0,1,1,0,0
+Data Scientist,Na,"ARKRAY USA, Inc.",1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,Minneapolis,MN,61,2.9,1,0,109500.0,130,5000,-1,0,0,0,0,0,0
+Data Scientist,Na,Revel IT,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Tucson,AZ,24,4.8,1,0,109500.0,88,500,100000000,0,0,0,0,0,0
+Data Engineer,Senior,SPECTRUM,10000+ Employees,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Denver,CO,5,3.2,1,0,132000.0,830,10000,10000000000,0,1,1,0,1,1
+Data Scientist,Senior,Northrop Grumman,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Baltimore,MD,82,4.0,1,0,132000.0,42,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Revel IT,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Tucson,AZ,24,4.8,1,0,132000.0,88,500,100000000,0,0,0,0,0,0
+Data Scientist,Na,"ARKRAY USA, Inc.",1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,Na,Minneapolis,MN,61,2.9,1,0,132000.0,130,5000,-1,0,0,0,0,0,0
+Data Engineer,Na,Vital Incite,Na,Na,Na,Na,Na,Indianapolis,IN,-1,4.0,1,0,132000.0,82,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Ascension Health,Na,Na,Na,Na,Na,Rochester,MI,-1,4.0,1,0,132000.0,53,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Amica Mutual Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,1,0,132000.0,59,5000,2000000000,1,0,0,0,0,0
+Na,Senior,ASR ANALYTICS LLC,1 to 50 Employees,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD),Washington,DC,-1,4.1,1,0,132000.0,71,50,5000000,1,0,0,0,0,1
+Data Engineer,Senior,"Agilent Technologies, Inc.",Na,Na,Na,Na,Na,Santa Clara,CA,-1,4.0,1,0,132000.0,201,-1,-1,0,0,0,0,1,1
+Data Analyist,Na,American Direct Marketing Resources,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,Na,Chesterfield,MO,38,3.4,1,0,132000.0,73,200,-1,0,0,0,0,0,0
+Manager,Executive,Colgate-Palmolive,10000+ Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),New York,NY,215,4.2,1,0,132000.0,124,10000,10000000000,0,0,0,0,0,0
+Data Analyist,Na,"Warehouse Services, Inc.",51 to 200 Employees,Company - Private,Na,Na,Na,Liberty,SC,-1,4.0,1,0,132000.0,93,200,-1,0,0,0,0,0,0
+Data Scientist,Senior,Global Nephrology Solutions,1 to 50 Employees,Company - Private,Na,Na,Na,Tempe,AZ,-1,2.5,1,0,132000.0,137,50,-1,0,0,0,0,0,1
+Data Scientist,Na,Osmose Utilities Services,1001 to 5000 Employees,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),Depew,NY,87,3.4,1,0,132000.0,142,5000,100000000,0,0,0,0,1,0
+Data Analyist,Na,EpochGeo,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,132000.0,158,-1,-1,0,0,0,0,0,0
+Data Analyist,Senior,"CONNECT, powered by American Family Insurance",501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),Chicago,IL,-1,3.2,1,0,132000.0,160,1000,500000000,1,0,0,0,0,0
+Data Scientist,Senior,international aids vaccine,51 to 200 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),La Jolla,CA,25,3.4,1,0,132000.0,141,200,100000000,0,0,0,0,0,0
+Data Engineer,Na,EpochGeo,Na,Na,Na,Na,Na,Reston,VA,-1,4.0,1,0,132000.0,151,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Stem Pharm,Na,Na,Na,Na,Na,Madison,WI,-1,4.0,1,0,132000.0,111,-1,-1,1,0,0,0,0,0
+Data Engineer,Senior,HSW Consulting,Na,Na,Na,Na,Na,Tampa,FL,-1,4.0,1,0,132000.0,155,-1,-1,0,0,0,0,1,0
+Na,Na,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Reston,VA,52,3.9,1,0,132000.0,124,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,OneMain Financial,5001 to 10000 Employees,Company - Public,Lending,Finance,Na,Wilmington,DE,109,3.5,1,0,132000.0,155,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,PepGen,Na,Na,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,132000.0,112,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Flamma USA,Na,Na,Na,Na,Na,Malvern,PA,-1,4.0,1,0,132000.0,86,-1,-1,0,0,0,0,0,0
+Data Engineer,Na,Unum,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Portland,ME,173,3.8,1,0,132000.0,276,10000,10000000000,0,0,0,0,1,0
+Data Analyist,Na,Amica Mutual Insurance Company,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),Lincoln,RI,114,4.0,1,0,132000.0,90,5000,2000000000,0,0,0,0,1,0
+Data Scientist,Na,Envision LLC,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Saint Louis,MO,27,4.5,1,0,132000.0,71,500,50000000,1,1,1,0,0,1
+Data Scientist,Junior,Fidelity TalentSource,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Durham,NC,35,3.5,1,0,132000.0,124,5000,-1,0,0,0,0,0,1
+Data Analyist,Na,Sperry Rail Inc.,201 to 500 Employees,Company - Private,Rail,Transportation & Logistics,Na,Shelton,CT,93,3.0,1,0,132000.0,79,500,-1,0,0,0,0,0,0
+Data Scientist,Na,Indeed,10000+ Employees,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco,CA,17,4.3,1,0,132000.0,196,10000,5000000000,0,0,0,0,0,1
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,132000.0,130,10000,10000000000,0,0,0,0,0,1
+Data Analyist,Na,The Burchell Group,Na,Na,Na,Na,Na,Houston,TX,-1,4.0,1,0,132000.0,22,-1,-1,0,0,0,0,0,0
+Data Analyist,Senior,Leidos,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Alexandria,VA,52,3.9,1,0,117500.0,64,10000,10000000000,0,0,0,0,0,0
+Machine Learning,Na,Zepp Health,201 to 500 Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,Na,Seattle,WA,7,2.5,1,0,117500.0,115,500,-1,0,0,0,0,0,1
+Machine Learning,Na,Zepp Health,Na,Na,Na,Na,Na,Seattle,WA,-1,2.5,1,0,117500.0,115,-1,-1,0,0,0,0,0,1
+Data Analyist,Na,AccruePartners,Na,Na,Na,Na,Na,New York,NY,-1,2.4,1,0,117500.0,62,-1,-1,0,0,0,0,1,0
+Data Engineer,Na,Strategic Staffing Solutions,1001 to 5000 Employees,Contract,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),Minneapolis,MN,31,3.5,1,0,117500.0,88,5000,500000000,0,0,0,0,0,0
+Data Analyist,Junior,WellSpace Health,51 to 200 Employees,Nonprofit Organization,Na,Na,$10 to $25 million (USD),Sacramento,CA,-1,2.9,1,0,117500.0,102,200,25000000,0,0,0,0,0,0
+Data Engineer,Senior,"AWM Smart Shelf (Adroit Worldwide Media, Inc.)",Na,Na,Na,Na,Na,Aliso Viejo,CA,-1,4.0,1,0,117500.0,91,-1,-1,0,0,0,0,0,1
+Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,111,10000,10000000000,0,0,0,0,0,0
+Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,120,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Jose,CA,119,3.8,1,0,117500.0,153,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,National Interstate,501 to 1000 Employees,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),Richfield,OH,32,4.1,1,0,117500.0,149,1000,1000000000,0,0,0,0,0,0
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,100,10000,10000000000,1,0,0,0,0,1
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Diego,CA,45,4.3,1,0,117500.0,118,10000,10000000000,1,1,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,173,10000,10000000000,0,0,0,0,0,1
+Na,Na,OneMain Financial,5001 to 10000 Employees,Company - Public,Lending,Finance,Na,Wilmington,DE,109,3.5,1,0,117500.0,155,10000,-1,1,0,0,0,0,1
+Machine Learning,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,194,10000,10000000000,0,0,0,0,0,1
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,115,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Junior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,100,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,163,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,Hyphen,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,117500.0,119,-1,-1,1,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,80,10000,10000000000,0,1,0,0,1,0
+Data Analyist,Senior,Performance Foodservice,1 to 50 Employees,Subsidiary or Business Segment,Wholesale,Business Services,Na,La Crosse,WI,-1,2.5,1,0,117500.0,194,50,-1,0,0,0,0,0,0
+Data Scientist,Na,Two Barrels,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Spokane,WA,11,4.7,1,0,117500.0,120,50,-1,0,0,1,0,0,0
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,103,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,126,10000,10000000000,0,0,0,0,0,1
+Data Analyist,Na,Kforce,10000+ Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),Frisco,TX,55,4.1,1,0,117500.0,130,10000,2000000000,0,0,1,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,109,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,100,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,161,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,117500.0,91,10000,10000000000,0,1,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,120,10000,10000000000,1,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,122,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,Intuit - Data,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),New York,NY,38,4.4,1,0,139500.0,88,10000,5000000000,1,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,108,10000,10000000000,0,0,1,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,161,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,103,10000,10000000000,1,0,0,0,0,0
+Data Analyist,Na,"CGI Group, Inc.",10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Fairfax,VA,45,3.8,1,0,139500.0,528,10000,10000000000,1,1,0,0,0,0
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,112,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,139500.0,193,5000,-1,0,0,0,0,0,0
+Data Analyist,Na,Lidl US,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Arlington,VA,27,3.6,1,0,139500.0,71,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,123,10000,10000000000,0,0,1,0,0,1
+Data Scientist,Junior,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,139500.0,136,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,"FourthWall Media, Inc.",201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Sterling,VA,23,3.5,1,0,139500.0,114,500,-1,0,0,0,0,1,1
+Data Engineer,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Hartford,CT,168,4.0,1,0,139500.0,160,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Mid,Parsons,10000+ Employees,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),Dahlgren,VA,77,3.9,1,0,139500.0,169,10000,5000000000,1,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,139500.0,149,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),North Chicago,IL,75,3.5,1,0,139500.0,94,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Mid,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,139500.0,120,-1,-1,1,0,0,0,0,0
+Data Scientist,Na,Hill's Pet Nutrition,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),Seattle,WA,114,4.1,1,0,139500.0,143,5000,5000000000,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Santa Clara,CA,45,4.3,1,0,139500.0,152,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,1,0,139500.0,212,200,-1,0,1,1,1,0,0
+Data Scientist,Senior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,139500.0,143,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Whippany,NJ,75,3.5,1,0,139500.0,79,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Na,CloudMedx,Na,Na,Na,Na,Na,Palo Alto,CA,-1,4.0,1,0,139500.0,149,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Francisco,CA,45,4.3,1,0,139500.0,176,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Junior,BTAS,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),Hampton,VA,26,3.8,1,0,139500.0,205,500,25000000,0,0,0,0,0,0
+Data Scientist,Na,Epsilon,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),Chicago,IL,52,3.7,1,0,139500.0,140,10000,5000000000,0,0,0,0,0,1
+Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,139500.0,118,-1,-1,0,1,1,0,1,0
+Na,Na,Daley and Associates,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,16,3.8,1,0,139500.0,104,50,25000000,0,0,0,0,0,1
+Data Scientist,Na,Creative Financial Staffing,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Hartford,CT,27,4.6,1,0,139500.0,117,500,100000000,1,0,1,0,0,1
+Data Scientist,Na,Intuit - Data,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),New York,NY,38,4.4,1,0,142500.0,88,10000,5000000000,1,0,0,0,0,0
+Data Scientist,Na,Intuit - Data,Na,Na,Na,Na,Na,New York,NY,-1,4.4,1,0,142500.0,88,-1,-1,1,0,0,0,0,0
+Data Engineer,Na,Apple,Na,Na,Na,Na,Na,Seattle,WA,-1,4.3,1,0,142500.0,103,-1,-1,1,0,0,0,0,0
+Data Analyist,Na,Infinity Apparel Group,Na,Na,Na,Na,Na,Miami,FL,-1,4.0,1,0,142500.0,61,-1,-1,0,0,0,0,1,0
+Data Analyist,Na,"CGI Group, Inc.",10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),Fairfax,VA,45,3.8,1,0,142500.0,528,10000,10000000000,1,1,0,0,0,0
+Machine Learning,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,142500.0,112,10000,10000000000,0,0,0,0,0,1
+Data Analyist,Na,LaborNow,Na,Company - Public,Na,Na,Na,Oxnard,CA,-1,1.0,1,0,142500.0,81,-1,-1,0,0,0,0,1,0
+Data Scientist,Senior,Brighthouse Financial,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,Na,Charlotte,NC,4,4.3,1,0,142500.0,193,5000,-1,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,142500.0,123,10000,10000000000,0,0,1,0,0,1
+Data Analyist,Na,Lidl US,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Arlington,VA,27,3.6,1,0,142500.0,71,10000,10000000000,0,0,0,0,0,0
+Data Analyist,Senior,Northwest Federal Credit Union,501 to 1000 Employees,Company - Private,Banks & Credit Unions,Finance,$25 to $50 million (USD),Herndon,VA,74,3.4,1,0,142500.0,174,1000,50000000,0,0,0,0,1,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Diego,CA,45,4.3,1,0,142500.0,174,10000,10000000000,1,0,0,0,0,0
+Data Analyist,Na,Bon Secours Mercy Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),Cincinnati,OH,3,3.4,1,0,142500.0,106,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,142500.0,123,10000,10000000000,0,0,1,0,0,0
+Data Analyist,Na,Internal Data Resources,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Smyrna,GA,23,4.3,1,0,142500.0,99,500,100000000,0,0,0,0,0,0
+Data Scientist,Junior,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,142500.0,136,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Macy’s,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York,NY,163,3.4,1,0,142500.0,125,10000,10000000000,0,0,1,0,0,0
+Data Scientist,Na,Lorien,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Atlanta,GA,23,3.5,1,0,142500.0,114,500,-1,0,0,0,0,1,1
+Data Engineer,Senior,AE Business Solutions,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),Madison,WI,72,4.0,1,0,142500.0,183,200,50000000,0,0,0,0,0,0
+Data Engineer,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Hartford,CT,168,4.0,1,0,142500.0,160,10000,10000000000,1,0,0,0,0,0
+Data Analyist,Senior,CDK Global,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Hoffman Estates,IL,7,3.5,1,0,142500.0,122,10000,5000000000,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,142500.0,149,10000,10000000000,0,0,0,0,0,1
+Na,Na,"The Travelers Companies, Inc.",10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Paul,MN,168,4.0,1,0,142500.0,183,10000,10000000000,0,0,0,0,0,0
+Manager,Executive,Alpha Consulting,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),Cambridge,MA,27,4.5,1,0,142500.0,72,500,25000000,0,0,0,0,0,0
+Data Analyist,Na,MassMutual,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Boston,MA,170,3.9,1,0,142500.0,629,10000,10000000000,1,0,0,0,1,0
+Data Analyist,Na,Putnam Investments,1001 to 5000 Employees,Subsidiary or Business Segment,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),Boston,MA,84,3.8,1,0,142500.0,150,5000,500000000,0,0,0,0,0,0
+Data Engineer,Na,AccruePartners,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Charlotte,NC,19,2.4,1,0,142500.0,75,200,50000000,0,0,0,0,0,0
+Data Scientist,Mid,Parsons,10000+ Employees,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),Dahlgren,VA,77,3.9,1,0,142500.0,169,10000,5000000000,1,0,0,0,0,0
+Na,Senior,Medical Search Associates,Na,Company - Public,Na,Na,Na,Gratiot,OH,-1,4.0,1,0,142500.0,633,-1,-1,0,0,0,0,1,0
+Data Scientist,Mid,"FourthWall Media, Inc.",Na,Na,Na,Na,Na,Sterling,VA,-1,4.0,1,0,142500.0,120,-1,-1,1,0,0,0,0,0
+Data Analyist,Senior,Home Care Assistance,5001 to 10000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),Phoenix,AZ,18,3.8,1,0,81500.0,170,10000,500000000,1,0,0,0,1,0
+Data Scientist,Senior,Selby Jennings,201 to 500 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),Dallas,TX,17,3.4,1,0,81500.0,93,500,25000000,0,1,1,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Santa Clara,CA,45,4.3,1,0,81500.0,152,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,Hill's Pet Nutrition,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),Seattle,WA,114,4.1,1,0,81500.0,14,5000,5000000000,0,0,0,0,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Seattle,WA,45,4.3,1,0,81500.0,201,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,Thermo Fisher Scientific,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Carlsbad,CA,119,3.8,1,0,81500.0,143,10000,10000000000,1,0,0,0,0,0
+Data Engineer,Na,Cenlar FSB,1001 to 5000 Employees,Company - Private,Na,Na,$100 to $500 million (USD),Ewing,NJ,63,3.2,1,0,81500.0,149,5000,500000000,1,0,0,0,0,0
+Data Engineer,Executive,Spokeo,201 to 500 Employees,Company - Private,Internet,Information Technology,Na,Pasadena,CA,15,4.0,1,0,81500.0,133,500,-1,0,0,0,0,0,0
+Data Scientist,Na,World Services LLC,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,4.7,1,0,81500.0,212,200,-1,0,1,1,1,0,0
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,81500.0,92,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Morgan Hunter,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,Kansas City,MO,35,4.4,1,0,81500.0,110,50,-1,0,1,0,0,0,0
+Data Scientist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Whippany,NJ,75,3.5,1,0,81500.0,79,10000,10000000000,0,0,0,0,0,0
+Data Engineer,Na,CloudMedx,Na,Na,Na,Na,Na,Palo Alto,CA,-1,4.0,1,0,81500.0,149,-1,-1,0,0,0,0,0,1
+Data Scientist,Junior,BTAS,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),Hampton,VA,26,3.8,1,0,81500.0,205,500,25000000,0,0,0,0,0,0
+Data Engineer,Na,Storm Global Analytics,Na,Na,Na,Na,Na,New York,NY,-1,4.0,1,0,81500.0,123,-1,-1,0,0,0,0,0,1
+Data Engineer,Senior,Bristol Myers Squibb,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Redwood City,CA,163,4.1,1,0,81500.0,140,10000,10000000000,0,0,0,0,0,1
+Data Engineer,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge,MA,45,4.3,1,0,81500.0,92,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Senior,Bridgestone Americas,10000+ Employees,Subsidiary or Business Segment,Industrial Manufacturing,Manufacturing,$10+ billion (USD),Nashville,TN,121,3.6,1,0,81500.0,188,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Francisco,CA,45,4.3,1,0,81500.0,176,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,"Information Unlimited, Inc.",Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,81500.0,118,-1,-1,0,1,1,0,1,0
+Data Analyist,Na,Kelly,5001 to 10000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),Austin,TX,75,3.5,1,0,81500.0,30,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Epsilon,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),Chicago,IL,52,3.7,1,0,81500.0,140,10000,5000000000,0,0,0,0,0,1
+Data Scientist,Na,Elder Research Inc,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),Arlington,VA,26,4.3,1,0,81500.0,154,200,25000000,1,0,0,0,0,0
+Na,Na,Daley and Associates,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,16,3.8,1,0,81500.0,104,50,25000000,0,0,0,0,0,1
+Data Scientist,Na,HCL Technologies,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),Texas,TX,30,3.7,1,0,81500.0,115,10000,10000000000,0,1,1,0,0,1
+Data Scientist,Na,Creative Financial Staffing,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Hartford,CT,27,4.6,1,0,81500.0,117,500,100000000,1,0,1,0,0,1
+Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,81500.0,164,-1,-1,1,0,0,0,1,1
+Data Scientist,Senior,Electric Power Research Institute,Na,Company - Private,Na,Na,Na,Washington,DC,-1,4.0,1,0,81500.0,94,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Hilton Grand Vacations,5001 to 10000 Employees,Company - Public,"Hotels, Motels, & Resorts",Travel & Tourism,Na,Orlando,FL,29,3.9,1,0,81500.0,90,10000,-1,0,1,1,0,1,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,81500.0,203,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Hilton Grand Vacations,5001 to 10000 Employees,Company - Public,"Hotels, Motels, & Resorts",Travel & Tourism,Na,Orlando,FL,29,3.9,1,0,97500.0,90,10000,-1,0,1,1,0,1,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,97500.0,203,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Apple,Na,Na,Na,Na,Na,Austin,TX,-1,4.3,1,0,97500.0,203,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Culver City,CA,45,4.3,1,0,97500.0,125,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Cox Communications Inc,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),Atlanta,GA,59,4.1,1,0,97500.0,27,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,97500.0,164,10000,10000000000,1,0,0,0,0,1
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,97500.0,150,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Austin,TX,45,4.3,1,0,97500.0,125,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,TEKsystems,1001 to 5000 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),Juno Beach,FL,38,3.8,1,0,97500.0,142,5000,5000000000,0,1,0,0,0,1
+Data Scientist,Na,Booz Allen Hamilton,10000+ Employees,Company - Public,Consulting,Business Services,$5 to $10 billion (USD),Atlanta,GA,107,4.2,1,0,97500.0,217,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,Insight Global,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),Atlanta,GA,20,3.9,1,0,97500.0,128,5000,5000000,1,0,0,0,0,1
+Data Scientist,Na,Verizon,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Roswell,GA,21,3.9,1,0,97500.0,182,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Culver City,CA,45,4.3,1,0,97500.0,184,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Safelite Group,10000+ Employees,Company - Private,Auto Repair & Maintenance,"Construction, Repair & Maintenance",$2 to $5 billion (USD),Columbus,OH,74,3.5,1,0,97500.0,120,10000,5000000000,1,0,0,0,0,0
+Data Scientist,Na,Genworth,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),Raleigh,NC,17,3.8,1,0,97500.0,512,5000,10000000000,1,0,0,0,1,0
+Data Scientist,Na,Alexander Technology Group,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Boston,MA,14,4.4,1,0,97500.0,77,200,50000000,0,0,0,0,0,0
+Data Scientist,Na,Verizon,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Martinsville,NJ,21,3.9,1,0,97500.0,499,10000,10000000000,1,0,0,0,1,0
+Data Scientist,Na,Onward Search,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),Cary,NC,14,3.8,1,0,97500.0,385,200,100000000,1,1,1,1,1,1
+Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,1,0,97500.0,164,-1,-1,1,0,0,0,1,1
+Data Scientist,Na,Stellantis,10000+ Employees,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),Auburn Hills,MI,-1,3.7,1,0,97500.0,117,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,Kapitus,201 to 500 Employees,Self-employed,Na,Na,Na,Maryland,MD,-1,3.2,1,0,97500.0,126,500,-1,0,0,0,0,0,0
+Data Engineer,Na,Trexin Consulting,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),Chicago,IL,16,4.0,1,0,97500.0,189,200,50000000,0,0,0,0,0,1
+Data Scientist,Na,Excelerated Analytics LLC,Na,Na,Na,Na,Na,Stafford,VA,-1,4.0,1,0,97500.0,132,-1,-1,1,0,0,0,0,0
+Data Scientist,Na,Skan,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Na,San Jose,CA,8,4.8,1,0,97500.0,64,50,-1,1,0,0,0,0,0
+Data Scientist,Na,PSG Global Solutions,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Irvine,CA,12,4.1,1,0,97500.0,83,5000,50000000,0,1,0,0,0,0
+Data Scientist,Na,CES Limited,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Woonsocket,RI,8,3.5,1,0,97500.0,81,200,10000000,0,0,0,0,1,0
+Data Scientist,Na,Northwell Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Lake Success,NY,24,4.1,1,0,97500.0,97,10000,10000000000,1,0,0,0,0,1
+Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,1,0,97500.0,121,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,ApTask India Private Limited,Na,Na,Na,Na,Na,Broomfield,CO,-1,4.0,1,0,97500.0,69,-1,-1,1,1,0,0,0,1
+Data Scientist,Na,#twiceasnice Recruiting,Na,Company - Public,Na,Na,Na,Washington,DC,-1,5.0,1,0,97500.0,161,-1,-1,0,0,0,0,0,0
+Machine Learning,Na,Ursus,1 to 50 Employees,Company - Private,IT Services,Information Technology,Na,Menlo Park,CA,6,4.4,1,0,154500.0,86,50,-1,0,0,0,0,0,1
+Data Scientist,Na,Northwell Health,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Lake Success,NY,24,4.1,1,0,154500.0,97,10000,10000000000,1,0,0,0,0,1
+Data Scientist,Junior,PayPal,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,23,4.1,1,0,154500.0,391,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Hulu,1001 to 5000 Employees,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),New York,NY,14,3.9,1,0,154500.0,115,5000,2000000000,1,0,0,0,0,1
+Data Scientist,Na,Harnham,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),Chicago,IL,15,3.9,1,0,154500.0,65,200,50000000,1,0,0,0,0,0
+Data Scientist,Na,Rhino New York,51 to 200 Employees,Company - Private,Insurance Carriers,Insurance,Na,Remote,NA,4,4.8,1,0,154500.0,163,200,-1,0,0,0,0,0,0
+Data Scientist,Junior,Cleveland Clinic,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Cleveland,OH,100,3.9,1,0,154500.0,76,10000,5000000000,1,0,0,0,0,1
+Data Scientist,Na,Waymo,Na,Company - Private,Computer Hardware & Software,Information Technology,Na,Mountain View,CA,12,4.0,1,0,154500.0,196,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Kagr Llc,1001 to 5000 Employees,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$1 to $2 billion (USD),Foxboro,MA,23,4.2,1,0,154500.0,141,5000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,Visa,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Foster City,CA,63,4.1,1,0,154500.0,190,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,"Grammarly, Inc.",201 to 500 Employees,Company - Private,Internet,Information Technology,Na,San Francisco,CA,12,5.0,1,0,154500.0,141,500,-1,0,0,0,0,0,0
+Data Scientist,Na,Duolingo,201 to 500 Employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),Pittsburgh,PA,10,4.6,1,0,154500.0,424,500,500000000,1,1,1,0,0,1
+Data Scientist,Na,4Insite,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Sacramento,CA,2,4.0,1,0,154500.0,89,50,-1,0,0,0,0,0,0
+Data Scientist,Na,NutaNXT Technologies,Na,Company - Private,Na,Na,Na,Santa Clara,CA,-1,4.0,1,0,154500.0,83,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,Density,1 to 50 Employees,Company - Private,Internet,Information Technology,Na,Remote,NA,7,4.7,1,0,154500.0,149,50,-1,0,0,0,0,0,0
+Data Scientist,Na,Texas Research International Inc,51 to 200 Employees,Company - Private,Research & Development,Business Services,Less than $1 million (USD),Austin,TX,-1,5.0,1,0,154500.0,85,200,1000000,1,0,0,0,1,0
+Data Scientist,Na,J.D. Power,1001 to 5000 Employees,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),California,CA,53,3.0,1,0,154500.0,716,5000,500000000,1,1,1,1,1,1
+Data Scientist,Na,Olive,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Remote,NA,9,4.1,1,0,154500.0,666,1000,-1,1,0,1,0,1,1
+Data Scientist,Na,Honey,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Boulder,CO,23,4.1,1,0,154500.0,233,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Modernize,51 to 200 Employees,Company - Private,Internet,Information Technology,Na,Texas,TX,16,4.1,1,0,154500.0,556,200,-1,1,1,1,0,0,1
+Data Scientist,Na,Zynga,1001 to 5000 Employees,Company - Public,Video Games,Media,$500 million to $1 billion (USD),Austin,TX,14,4.4,1,0,154500.0,331,5000,1000000000,0,0,0,0,0,1
+Data Scientist,Na,Workday,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),New York,NY,16,4.2,1,0,154500.0,162,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,"HealthCare, Inc.",51 to 200 Employees,Private Practice / Firm,Internet,Information Technology,Na,Remote,NA,7,4.6,1,0,154500.0,143,200,-1,0,0,0,0,0,1
+Data Scientist,Na,Shearman & Sterling LLP,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$500 million to $1 billion (USD),New York,NY,148,3.7,1,0,154500.0,132,5000,1000000000,0,0,0,0,0,0
+Data Scientist,Na,Luminant Generation Company LLC,1001 to 5000 Employees,Subsidiary or Business Segment,Utilities,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD),Irving,TX,-1,3.6,1,0,154500.0,127,5000,500000000,0,0,0,0,0,0
+Data Scientist,Na,Zensar Technologies,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),San Jose,CA,20,3.5,1,0,154500.0,165,10000,1000000000,0,0,0,0,0,0
+Data Scientist,Na,Spencer Stuart,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,65,4.0,1,0,154500.0,148,5000,25000000,0,0,0,0,0,0
+Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Washington,DC,17,4.3,1,0,154500.0,270,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Calendly,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Georgia,GA,8,4.1,1,0,154500.0,432,500,-1,1,0,1,1,0,1
+Data Scientist,Na,Southern New Hampshire University,10000+ Employees,College / University,Colleges & Universities,Education,Na,Manchester,NH,89,4.2,1,0,154500.0,174,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,Workday,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),New York,NY,16,4.2,1,0,131000.0,162,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Zynga,1001 to 5000 Employees,Company - Public,Video Games,Media,$500 million to $1 billion (USD),Austin,TX,14,4.4,1,0,131000.0,331,5000,1000000000,0,0,0,0,0,1
+Data Scientist,Na,Facebook,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Washington,DC,17,4.3,1,0,131000.0,270,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,"HealthCare, Inc.",51 to 200 Employees,Private Practice / Firm,Internet,Information Technology,Na,Remote,NA,7,4.6,1,0,131000.0,143,200,-1,0,0,0,0,0,1
+Data Scientist,Na,Olive,501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Remote,NA,9,4.1,1,0,131000.0,553,1000,-1,1,1,1,0,0,1
+Data Scientist,Na,Shearman & Sterling LLP,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$500 million to $1 billion (USD),New York,NY,148,3.7,1,0,131000.0,132,5000,1000000000,0,0,0,0,0,0
+Data Scientist,Na,Zensar Technologies,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),San Jose,CA,20,3.5,1,0,131000.0,165,10000,1000000000,0,0,0,0,0,0
+Data Scientist,Na,Luminant Generation Company LLC,1001 to 5000 Employees,Subsidiary or Business Segment,Utilities,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD),Irving,TX,-1,3.6,1,0,131000.0,127,5000,500000000,0,0,0,0,0,0
+Data Scientist,Na,Southern New Hampshire University,10000+ Employees,College / University,Colleges & Universities,Education,Na,Manchester,NH,89,4.2,1,0,131000.0,174,10000,-1,0,0,0,0,0,0
+Data Scientist,Na,Spencer Stuart,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),New York,NY,65,4.0,1,0,131000.0,148,5000,25000000,0,0,0,0,0,0
+Data Scientist,Na,Ibotta,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Denver,CO,9,3.8,1,0,131000.0,825,1000,-1,1,1,1,0,1,1
+Data Scientist,Na,CyberCoders,201 to 500 Employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),Baltimore,MD,22,4.1,1,0,131000.0,122,500,500000000,0,0,0,0,0,0
+Data Scientist,Na,QuinStreet,501 to 1000 Employees,Company - Public,Advertising & Marketing,Business Services,$500 million to $1 billion (USD),Foster City,CA,22,3.9,1,0,131000.0,154,1000,1000000000,0,0,0,0,0,0
+Data Scientist,Na,Klaviyo,501 to 1000 Employees,Company - Private,Internet,Information Technology,Na,Boston,MA,9,4.9,1,0,131000.0,649,1000,-1,1,0,0,0,0,1
+Data Scientist,Senior,Netflix,5001 to 10000 Employees,Company - Public,Internet,Information Technology,$5 to $10 billion (USD),Los Gatos,CA,24,4.2,1,0,131000.0,139,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,BitSight,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Boston,MA,10,4.0,1,0,131000.0,113,500,-1,0,0,0,0,0,0
+Data Scientist,Na,Berkley,1 to 50 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$25 to $50 million (USD),Chesterfield,MO,9,4.4,1,0,131000.0,151,50,50000000,0,1,0,0,0,0
+Data Scientist,Na,TransUnion,5001 to 10000 Employees,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),Chicago,IL,53,4.0,1,0,131000.0,173,10000,2000000000,0,0,0,0,0,0
+Data Scientist,Na,Snapchat,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Los Angeles,CA,10,4.2,1,0,131000.0,123,5000,-1,0,0,0,0,0,0
+Na,Na,Nauto,51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Palo Alto,CA,6,4.1,1,0,131000.0,127,200,-1,0,0,0,0,0,1
+Data Scientist,Na,Ubisoft,10000+ Employees,Company - Public,Video Games,Media,$2 to $5 billion (USD),Cary,NC,35,3.9,1,0,131000.0,153,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Intone Networks,201 to 500 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),Remote,NA,-1,4.4,1,0,131000.0,252,500,25000000,1,1,0,0,1,1
+Data Scientist,Na,Kaiser Permanente,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),Pasadena,CA,76,4.0,1,0,131000.0,240,10000,10000000000,0,0,0,0,1,0
+Data Scientist,Na,XIFIN,201 to 500 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),San Diego,CA,24,4.3,1,0,131000.0,164,500,100000000,0,0,0,0,0,0
+Data Scientist,Na,Jacobs,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$10+ billion (USD),San Francisco,CA,74,3.8,1,0,131000.0,282,10000,10000000000,0,0,0,1,0,0
+Data Scientist,Na,IBM,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Austin,TX,110,3.9,1,0,131000.0,767,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Na,DeepHealth,Na,Company - Private,Na,Na,Na,Cambridge,MA,-1,4.0,1,0,131000.0,96,-1,-1,0,1,0,0,0,1
+Data Scientist,Na,Rhombus Power,Na,Company - Public,Na,Na,Na,Mountain View,CA,-1,4.0,1,0,131000.0,490,-1,-1,1,0,1,1,1,1
+Data Scientist,Na,Halo Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,53400.0,74,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,"Sunfish, Inc.",Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,120000.0,121,-1,-1,0,0,0,0,0,1
+Director,Executive,Charles Schwab,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree,CO,48,3.9,0,0,199500.0,163,10000,10000000000,0,0,0,0,0,1
+Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,1,72600.0,151,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,99500.0,48,10000,-1,1,0,0,0,0,0
+Data Scientist,Na,LineSlip Solutions,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,183000.0,104,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,TWO NIL,1 to 50 Employees,Company - Private,Advertising & Marketing,Business Services,Na,California,CA,2,2.9,0,0,183000.0,517,50,-1,1,1,1,0,1,1
+Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,183000.0,80,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,Illumina,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),San Diego,CA,23,4.1,0,0,183000.0,267,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Adlumin Inc.,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,183000.0,164,-1,-1,1,0,0,0,1,1
+Data Scientist,Na,Calendly,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,Na,Georgia,GA,8,4.1,0,0,183000.0,432,500,-1,1,0,1,1,0,1
+Na,Na,Interview Query,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,183000.0,151,-1,-1,0,0,0,0,0,1
+Data Scientist,Na,AstraZeneca,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Gaithersburg,MD,108,4.2,0,0,183000.0,92,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Junior,HEB,10000+ Employees,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Spring,TX,116,4.3,0,0,183000.0,394,10000,10000000000,1,1,1,0,0,1
+Data Scientist,Na,TCS,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,Na,Raritan,NJ,74,4.0,0,0,183000.0,57,50,-1,0,1,0,0,0,0
+Data Scientist,Na,TCS,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),Raritan,NJ,110,3.9,0,0,183000.0,57,10000,10000000000,0,1,0,0,0,0
+Data Scientist,Na,Stanford Health Care,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),Palo Alto,CA,64,3.9,0,0,183000.0,143,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Siemens,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),Tarrytown,NY,178,4.1,0,0,183000.0,162,10000,10000000000,1,0,0,0,0,1
+Data Engineer,Junior,Technica Corporation,201 to 500 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),Sterling,VA,30,3.4,0,0,183000.0,152,500,500000000,0,0,0,0,0,0
+Data Engineer,Junior,Google,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),Goleta,CA,23,4.5,0,0,183000.0,135,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Sun Oak,1 to 50 Employees,Company - Private,Consulting,Business Services,Na,Miami,FL,3,4.0,0,0,183000.0,211,50,-1,1,0,0,0,0,0
+Data Scientist,Senior,Deck,51 to 200 Employees,Company - Private,Na,Na,Na,Remote,NA,-1,3.6,0,0,183000.0,69,200,-1,0,0,0,0,0,0
+Data Scientist,Na,Lakeland Book Company,Na,Na,Na,Na,Na,Bolingbrook,IL,-1,4.0,0,0,183000.0,125,-1,-1,1,0,0,0,0,1
+Data Scientist,Na,Darkblade Systems Corporation,51 to 200 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),McLean,VA,11,4.8,0,0,183000.0,39,200,25000000,0,0,0,0,0,0
+Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,183000.0,908,200,-1,1,1,0,0,0,1
+Data Engineer,Na,Cisco Systems,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),San Jose,CA,37,4.3,0,0,183000.0,702,10000,10000000000,1,1,1,0,1,1
+Data Scientist,Na,eBay Inc.,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),San Jose,CA,26,4.0,0,0,183000.0,121,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,Nuvento systems,51 to 200 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),Overland Park,KS,14,3.7,0,0,183000.0,30,200,100000000,0,0,1,0,1,0
+Data Engineer,Na,HP,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Spring,TX,82,4.2,0,0,183000.0,110,10000,-1,1,0,0,0,0,0
+Data Scientist,Na,"giftHEALTH, Inc.",1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Columbus,OH,1,4.0,0,0,183000.0,88,50,-1,0,0,0,0,0,0
+Na,Na,McKinsey & Company,10000+ Employees,Company - Private,Consulting,Business Services,Na,East Boston,MA,95,4.4,0,0,183000.0,74,10000,-1,1,1,1,0,0,1
+Data Scientist,Na,Yeoman Asset Management,Na,Na,Na,Na,Na,Louisville,CO,-1,4.0,0,0,183000.0,170,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Salesforce,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Remote,NA,22,4.4,0,0,142000.0,185,10000,10000000000,0,0,0,0,1,1
+Data Scientist,Na,Arundo Analytics,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Na,Houston,TX,6,4.0,0,0,142000.0,908,200,-1,1,1,0,0,0,1
+Data Scientist,Senior,Envision,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,Na,Saint Louis,MO,-1,4.0,0,0,142000.0,75,200,-1,1,1,0,0,0,1
+Data Scientist,Na,Delaware Nation Industries,Na,Na,Na,Na,Na,Washington,DC,-1,4.0,0,0,142000.0,77,-1,-1,0,0,0,0,0,0
+Data Scientist,Senior,Slack,1001 to 5000 Employees,Company - Public,Internet,Information Technology,Na,San Francisco,CA,7,4.7,0,0,142000.0,437,5000,-1,1,1,1,0,0,1
+Data Scientist,Mid,ZoomInfo Technologies LLC,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,Na,Vancouver,WA,21,4.0,0,0,142000.0,281,5000,-1,1,1,1,1,1,1
+Data Scientist,Senior,Eagle Rock Analytics,Na,Na,Na,Na,Na,Remote,NA,-1,4.0,0,0,142000.0,147,-1,-1,0,0,0,0,0,0
+Data Scientist,Mid,Caterpillar,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),Houston,TX,96,3.9,0,0,142000.0,136,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,FriendFinder Networks,201 to 500 Employees,Company - Private,Internet,Information Technology,$25 to $50 million (USD),Campbell,CA,25,2.9,0,0,142000.0,124,500,50000000,0,0,0,0,0,0
+Data Scientist,Executive,New York University,10000+ Employees,College / University,Colleges & Universities,Education,$5 to $10 billion (USD),New York,NY,190,4.3,0,0,142000.0,75,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Na,James River Insurance Company,501 to 1000 Employees,Company - Public,Insurance Carriers,Insurance,$100 to $500 million (USD),Remote,NA,19,3.1,0,0,142000.0,166,1000,500000000,0,0,0,0,0,0
+Data Scientist,Senior,"Innovent Biologics(Suzhou)Co.,Ltd.",Na,Na,Na,Na,Na,Rockville,MD,-1,4.0,0,0,142000.0,80,-1,-1,0,0,0,0,0,0
+Data Scientist,Na,23andMe,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Sunnyvale,CA,15,4.1,0,0,142000.0,457,1000,-1,0,0,1,1,0,0
+Na,Na,Massive Bio,1 to 50 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Remote,NA,7,4.7,0,0,142000.0,57,50,-1,0,0,0,0,0,1
+Data Scientist,Na,ALLDATA,501 to 1000 Employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),Elk Grove,CA,35,4.0,0,0,142000.0,136,1000,100000000,0,0,0,0,0,0
+Data Scientist,Na,US Internal Revenue Service,10000+ Employees,Government,Federal Agencies,Government,Na,Charlotte Amalie,VI,159,3.7,0,0,141000.0,34,10000,-1,0,0,0,0,0,0
+Data Scientist,Senior,Attunely,Na,Na,Na,Na,Na,Seattle,WA,-1,4.0,0,0,180000.0,124,-1,-1,1,0,0,0,0,1
+Data Scientist,Senior,Microsoft,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Redmond,WA,46,4.4,0,0,183000.0,166,10000,10000000000,0,0,0,0,1,0
+Data Scientist,Mid,Humana,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Irving,TX,60,4.1,0,0,183000.0,112,10000,10000000000,1,0,0,0,0,0
+Data Scientist,Na,Atruz Solutions,Na,Na,Na,Na,Na,San Diego,CA,-1,4.0,0,0,183000.0,89,-1,-1,1,0,0,0,0,1
+Data Scientist,Senior,Salesforce,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Remote,NA,22,4.4,0,0,183000.0,185,10000,10000000000,0,0,0,0,1,1
+Data Scientist,Senior,Albertsons Companies,10000+ Employees,Company - Public,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Pleasanton,CA,82,3.4,0,0,183000.0,153,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Junior,"Advanced Micro Devices, Inc.",5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),Austin,TX,52,4.1,0,0,183000.0,123,10000,5000000000,0,0,0,0,0,0
+Data Scientist,Na,Deliverr Inc,51 to 200 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Na,California,CA,4,4.7,0,0,183000.0,364,200,-1,1,1,1,1,0,1
+Data Scientist,Senior,Paylocity,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),Remote,NA,24,4.4,0,0,183000.0,113,5000,500000000,0,0,0,0,0,0
+Data Scientist,Na,Orchard,51 to 200 Employees,Company - Private,Real Estate,Real Estate,Na,New York,NY,4,4.8,0,0,183000.0,689,200,-1,1,0,1,0,1,1
+Director,Executive,Arizona State University,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),Tempe,AZ,136,4.3,0,0,183000.0,152,10000,2000000000,1,0,0,0,1,0
+Data Engineer,Na,Raytheon Intelligence & Space,10000+ Employees,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Dallas,TX,1,3.9,0,0,183000.0,30,10000,10000000000,0,0,0,0,0,0
+Data Scientist,Senior,Apple,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),United States,NA,45,4.3,0,0,183000.0,147,10000,10000000000,0,0,0,0,0,1
+Data Scientist,Senior,Slack,1001 to 5000 Employees,Company - Public,Internet,Information Technology,Na,San Francisco,CA,7,4.7,0,0,183000.0,437,5000,-1,1,1,1,0,0,1
+Data Scientist,Na,Amsted Rail,1001 to 5000 Employees,Company - Private,Rail,Transportation & Logistics,$500 million to $1 billion (USD),Petersburg,VA,-1,3.4,0,0,183000.0,88,5000,1000000000,0,0,0,0,0,1
+Data Scientist,Na,Metagenomi,1 to 50 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Na,Emeryville,CA,3,5.0,0,0,183000.0,93,50,-1,0,0,0,0,0,0
+Data Scientist,Mid,Humana,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Irving,TX,60,4.1,0,0,157500.0,112,10000,10000000000,1,0,0,0,0,0
